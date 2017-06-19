@@ -1,0 +1,27 @@
+
+body { margin: 1cm 2cm }
+
+span[role='docTitle'] { text-transform: uppercase }
+
+p { text-indent: 2em }
+p > a { text-indent: 0 }
+p.center { text-align: center }
+p.italic { font-style: italic }
+p.list-item { text-indent: 0 }
+
+section { margin-top: 1em }
+
+h2 { text-align: center; font-size: medium; font-weight: normal }
+h2[role='heading'] { text-transform: uppercase }
+
+section[role='article'] > h2 { font-style: italic }
+
+section[role='paragraph'] > span[role='num'] { display: inline-block; width: 2em }
+section[role='paragraph'] > p:first-of-type { display: inline }
+
+section[role='subparagraph'] > span[role='num'] { display: inline-block; margin-left: 2em; width: 2em }
+section[role='subparagraph'] > p:first-of-type { display: inline }
+
+a.fa { color: inherit; text-decoration: none }
+a.fa:hover { text-decoration: none }
+a.fa:focus { outline: none }

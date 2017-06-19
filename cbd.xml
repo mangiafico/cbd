@@ -1,0 +1,2412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cbd.xsl" type="text/xsl"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:un="http://www.informea.org/">
+	<doc name="treaty">
+		<meta>
+			<identification source="">
+				<FRBRWork>
+					<FRBRthis value="un/treaty/cbd"/>
+					<FRBRuri value="un/treaty/cbd"/>
+					<FRBRdate date="1992-06-05" name=""/>
+					<FRBRauthor href=""/>
+					<FRBRcountry value="un"/>
+					<FRBRname value="Convention on Biological Diversity"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="un/treaty/cbd/eng"/>
+					<FRBRuri value="un/treaty/cbd/eng"/>
+					<FRBRdate date="1992-06-05" name=""/>
+					<FRBRauthor href=""/>
+					<FRBRlanguage language="eng"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="un/treaty/cbd/eng/akn"/>
+					<FRBRuri value="un/treaty/cbd/eng/akn"/>
+					<FRBRdate date="2017-06-14" name=""/>
+					<FRBRauthor href=""/>
+					<FRBRformat value="application/xml"/>
+				</FRBRManifestation>
+			</identification>
+			<analysis source="">
+				<otherAnalysis source="">
+					<un:leoTerm href="#preamble__p_2" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#preamble__p_2" refersTo="#term-ecosystem"/>
+					<un:leoTerm href="#preamble__p_3" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#preamble__p_3" refersTo="#term-conservation"/>
+					<un:leoTerm href="#preamble__p_4" refersTo="#term-sovereignty"/>
+					<un:leoTerm href="#preamble__p_5" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#preamble__p_5" refersTo="#term-conservation"/>
+					<un:leoTerm href="#preamble__p_5" refersTo="#term-sustainable-use"/>
+					<un:leoTerm href="#preamble__p_6" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#preamble__p_7" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#preamble__p_8" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#preamble__p_9" refersTo="#term-precautionary-principle"/>
+					<un:leoTerm href="#preamble__p_10" refersTo="#term-conservation"/>
+					<un:leoTerm href="#preamble__p_10" refersTo="#term-ecosystem"/>
+					<un:leoTerm href="#preamble__p_10" refersTo="#term-in-situ-conservation"/>
+					<un:leoTerm href="#preamble__p_11" refersTo="#term-conservation"/>
+					<un:leoTerm href="#preamble__p_11" refersTo="#term-ex-situ-conservation"/>
+					<un:leoTerm href="#preamble__p_12" refersTo="#term-access-and-benefit-sharing"/>
+					<un:leoTerm href="#preamble__p_12" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#preamble__p_12" refersTo="#term-indigenous-people"/>
+					<un:leoTerm href="#preamble__p_12" refersTo="#term-sustainable-use"/>
+					<un:leoTerm href="#preamble__p_13" refersTo="#term-access-to-information"/>
+					<un:leoTerm href="#preamble__p_13" refersTo="#term-gender"/>
+					<un:leoTerm href="#preamble__p_14" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#preamble__p_15" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#preamble__p_15" refersTo="#term-budget"/>
+					<un:leoTerm href="#preamble__p_15" refersTo="#term-technology-transfer"/>
+					<un:leoTerm href="#preamble__p_16" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#preamble__p_16" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#preamble__p_16" refersTo="#term-budget"/>
+					<un:leoTerm href="#preamble__p_16" refersTo="#term-technology-transfer"/>
+					<un:leoTerm href="#preamble__p_17" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#preamble__p_18" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#preamble__p_18" refersTo="#term-budget"/>
+					<un:leoTerm href="#preamble__p_19" refersTo="#term-poverty"/>
+					<un:leoTerm href="#preamble__p_19" refersTo="#term-economy-in-transition"/>
+					<un:leoTerm href="#preamble__p_19" refersTo="#term-sustainable-development"/>
+					<un:leoTerm href="#preamble__p_20" refersTo="#term-access-and-benefit-sharing"/>
+					<un:leoTerm href="#preamble__p_20" refersTo="#term-conservation"/>
+					<un:leoTerm href="#preamble__p_20" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#preamble__p_20" refersTo="#term-sustainable-use"/>
+					<un:leoTerm href="#preamble__p_21" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#preamble__p_21" refersTo="#term-conservation"/>
+					<un:leoTerm href="#preamble__p_21" refersTo="#term-sustainable-use"/>
+					<un:leoTerm href="#preamble__p_22" refersTo="#term-synergy"/>
+					<un:leoTerm href="#preamble__p_23" refersTo="#term-intergenerational-equity"/>
+					<un:sdgGoal href="#art_1" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_1" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_1" refersTo="#sdg-goal-17"/>
+					<un:sdgGoal href="#art_1" refersTo="#sdg-goal-14"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-2.4"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-2.5"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-15.1"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-17.7"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-15.2"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-15.6"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-15.4"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-15.8"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-15.9"/>
+					<un:sdgTarget href="#art_1" refersTo="#sdg-target-14.2"/>
+					<un:leoTerm href="#art_1" refersTo="#term-access-and-benefit-sharing"/>
+					<un:leoTerm href="#art_1" refersTo="#term-access-to-genetic-resources"/>
+					<un:leoTerm href="#art_1" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#art_1" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_1" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_1" refersTo="#term-sustainable-use"/>
+					<un:leoTerm href="#art_1" refersTo="#term-technology-transfer"/>
+					<un:leoTerm href="#art_2__item_1" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#art_2__item_2" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_2__item_3" refersTo="#term-biotechnology"/>
+					<un:leoTerm href="#art_2__item_4" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_2__item_4" refersTo="#term-in-situ-conservation"/>
+					<un:leoTerm href="#art_2__item_5" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_2__item_5" refersTo="#term-in-situ-conservation"/>
+					<un:leoTerm href="#art_2__item_7" refersTo="#term-ecosystem"/>
+					<un:leoTerm href="#art_2__item_8" refersTo="#term-ex-situ-conservation"/>
+					<un:leoTerm href="#art_2__item_9" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_2__item_10" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_2__item_11" refersTo="#term-ecosystem"/>
+					<un:leoTerm href="#art_2__item_12" refersTo="#term-in-situ-conservation"/>
+					<un:leoTerm href="#art_2__item_13" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_2__item_13" refersTo="#term-in-situ-conservation"/>
+					<un:leoTerm href="#art_2__item_14" refersTo="#term-protected area"/>
+					<un:leoTerm href="#art_2__item_16" refersTo="#term-sustainable-development"/>
+					<un:leoTerm href="#art_2__item_16" refersTo="#term-sustainable-use"/>
+					<un:leoTerm href="#art_2__item_17" refersTo="#term-biotechnology"/>
+					<un:leoTerm href="#art_3" refersTo="#term-prevention"/>
+					<un:leoTerm href="#art_3" refersTo="#term-sovereignty"/>
+					<un:sdgGoal href="#art_5" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_5" refersTo="#sdg-target-17.6"/>
+					<un:leoTerm href="#art_5" refersTo="#term-international-cooperation"/>
+					<un:sdgGoal href="#art_6__subpara_a" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_6__subpara_a" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_6__subpara_a" refersTo="#sdg-target-15.9"/>
+					<un:leoTerm href="#art_6__subpara_a" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#art_6__subpara_a" refersTo="#term-national-strategy"/>
+					<un:sdgGoal href="#art_6__subpara_b" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_6__subpara_b" refersTo="#sdg-goal-14"/>
+					<un:sdgTarget href="#art_6__subpara_b" refersTo="#sdg-target-15.9"/>
+					<un:leoTerm href="#art_6__subpara_b" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#art_6__subpara_b" refersTo="#term-national-strategy"/>
+					<un:sdgGoal href="#art_7__subpara_a" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_7__subpara_a" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_7__subpara_a" refersTo="#sdg-target-14.2"/>
+					<un:sdgTarget href="#art_7__subpara_a" refersTo="#sdg-target-15.5"/>
+					<un:leoTerm href="#art_7__subpara_a" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_7__subpara_a" refersTo="#term-monitoring"/>
+					<un:leoTerm href="#art_7__subpara_a" refersTo="#term-evaluation"/>
+					<un:leoTerm href="#art_7__subpara_a" refersTo="#term-sustainable-use"/>
+					<un:sdgGoal href="#art_7__subpara_b" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_7__subpara_b" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_7__subpara_b" refersTo="#sdg-target-14.2"/>
+					<un:sdgTarget href="#art_7__subpara_b" refersTo="#sdg-target-15.5"/>
+					<un:leoTerm href="#art_7__subpara_b" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_7__subpara_b" refersTo="#term-monitoring"/>
+					<un:leoTerm href="#art_7__subpara_b" refersTo="#term-evaluation"/>
+					<un:leoTerm href="#art_7__subpara_b" refersTo="#term-sustainable-use"/>
+					<un:sdgGoal href="#art_7__subpara_c" refersTo="#sdg-goal-12"/>
+					<un:sdgGoal href="#art_7__subpara_c" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_7__subpara_c" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_7__subpara_c" refersTo="#sdg-goal-11"/>
+					<un:sdgGoal href="#art_7__subpara_c" refersTo="#sdg-goal-8"/>
+					<un:sdgTarget href="#art_7__subpara_c" refersTo="#sdg-target-12.2"/>
+					<un:sdgTarget href="#art_7__subpara_c" refersTo="#sdg-target-14.3"/>
+					<un:sdgTarget href="#art_7__subpara_c" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_7__subpara_c" refersTo="#sdg-target-8.4"/>
+					<un:sdgTarget href="#art_7__subpara_c" refersTo="#sdg-target-11.6"/>
+					<un:leoTerm href="#art_7__subpara_c" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#art_7__subpara_c" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_7__subpara_c" refersTo="#term-monitoring"/>
+					<un:leoTerm href="#art_7__subpara_c" refersTo="#term-evaluation"/>
+					<un:leoTerm href="#art_7__subpara_c" refersTo="#term-sustainable-use"/>
+					<un:leoTerm href="#art_7__subpara_d" refersTo="#term-monitoring"/>
+					<un:leoTerm href="#art_7__subpara_d" refersTo="#term-evaluation"/>
+					<un:sdgGoal href="#art_8__subpara_a" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_8__subpara_a" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_a" refersTo="#sdg-target-14.5"/>
+					<un:sdgTarget href="#art_8__subpara_a" refersTo="#sdg-target-15.1"/>
+					<un:leoTerm href="#art_8__subpara_a" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_8__subpara_a" refersTo="#term-protected-area"/>
+					<un:sdgGoal href="#art_8__subpara_b" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_8__subpara_b" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_b" refersTo="#sdg-target-14.5"/>
+					<un:sdgTarget href="#art_8__subpara_b" refersTo="#sdg-target-15.1"/>
+					<un:leoTerm href="#art_8__subpara_b" refersTo="#term-in-situ-conservation"/>
+					<un:leoTerm href="#art_8__subpara_b" refersTo="#term-protected-area"/>
+					<un:sdgGoal href="#art_8__subpara_c" refersTo="#sdg-goal-12"/>
+					<un:sdgGoal href="#art_8__subpara_c" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_c" refersTo="#sdg-target-12.2"/>
+					<un:sdgTarget href="#art_8__subpara_c" refersTo="#sdg-target-14.5"/>
+					<un:sdgTarget href="#art_8__subpara_c" refersTo="#sdg-target-15.2"/>
+					<un:leoTerm href="#art_8__subpara_c" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_8__subpara_c" refersTo="#term-in-situ-conservation"/>
+					<un:leoTerm href="#art_8__subpara_c" refersTo="#term-sustainable-use"/>
+					<un:sdgGoal href="#art_8__subpara_d" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_8__subpara_d" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_d" refersTo="#sdg-target-14.2"/>
+					<un:sdgTarget href="#art_8__subpara_d" refersTo="#sdg-target-15.1"/>
+					<un:sdgTarget href="#art_8__subpara_d" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_8__subpara_d" refersTo="#sdg-target-14.5"/>
+					<un:leoTerm href="#art_8__subpara_d" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_8__subpara_d" refersTo="#term-ecosystem"/>
+					<un:leoTerm href="#art_8__subpara_d" refersTo="#term-species"/>
+					<un:sdgGoal href="#art_8__subpara_e" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_e" refersTo="#sdg-target-15.1"/>
+					<un:sdgTarget href="#art_8__subpara_e" refersTo="#sdg-target-15.5"/>
+					<un:leoTerm href="#art_8__subpara_e" refersTo="#term-protected-area"/>
+					<un:leoTerm href="#art_8__subpara_e" refersTo="#term-sustainable-development"/>
+					<un:sdgGoal href="#art_8__subpara_f" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_8__subpara_f" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_f" refersTo="#sdg-target-14.2"/>
+					<un:sdgTarget href="#art_8__subpara_f" refersTo="#sdg-target-15.1"/>
+					<un:sdgTarget href="#art_8__subpara_f" refersTo="#sdg-target-15.9"/>
+					<un:leoTerm href="#art_8__subpara_f" refersTo="#term-ecosystem"/>
+					<un:leoTerm href="#art_8__subpara_f" refersTo="#term-endangered-species"/>
+					<un:leoTerm href="#art_8__subpara_f" refersTo="#term-national-strategy"/>
+					<un:sdgGoal href="#art_8__subpara_g" refersTo="#sdg-goal-3"/>
+					<un:sdgGoal href="#art_8__subpara_g" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_8__subpara_g" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_8__subpara_g" refersTo="#sdg-goal-12"/>
+					<un:sdgTarget href="#art_8__subpara_g" refersTo="#sdg-target-3.d"/>
+					<un:sdgTarget href="#art_8__subpara_g" refersTo="#sdg-target-15.1"/>
+					<un:sdgTarget href="#art_8__subpara_g" refersTo="#sdg-target-3.9"/>
+					<un:sdgTarget href="#art_8__subpara_g" refersTo="#sdg-target-2.4"/>
+					<un:sdgTarget href="#art_8__subpara_g" refersTo="#sdg-target-2.5"/>
+					<un:sdgTarget href="#art_8__subpara_g" refersTo="#sdg-target-12.2"/>
+					<un:leoTerm href="#art_8__subpara_g" refersTo="#term-biotechnology"/>
+					<un:leoTerm href="#art_8__subpara_g" refersTo="#term-living-modified-organism"/>
+					<un:leoTerm href="#art_8__subpara_g" refersTo="#term-risk-assessment"/>
+					<un:sdgGoal href="#art_8__subpara_h" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_h" refersTo="#sdg-target-15.8"/>
+					<un:leoTerm href="#art_8__subpara_h" refersTo="#term-alien-species"/>
+					<un:sdgGoal href="#art_8__subpara_i" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_8__subpara_i" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_i" refersTo="#sdg-target-14.4"/>
+					<un:sdgTarget href="#art_8__subpara_i" refersTo="#sdg-target-15.1"/>
+					<un:sdgTarget href="#art_8__subpara_i" refersTo="#sdg-target-15.a"/>
+					<un:sdgTarget href="#art_8__subpara_i" refersTo="#sdg-target-15.b"/>
+					<un:leoTerm href="#art_8__subpara_i" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_8__subpara_i" refersTo="#term-intergenerational-equity"/>
+					<un:leoTerm href="#art_8__subpara_i" refersTo="#term-sustainable-use"/>
+					<un:sdgGoal href="#art_8__subpara_j" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_8__subpara_j" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_j" refersTo="#sdg-target-2.5"/>
+					<un:sdgTarget href="#art_8__subpara_j" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_8__subpara_j" refersTo="#term-benefit-sharing"/>
+					<un:leoTerm href="#art_8__subpara_j" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_8__subpara_j" refersTo="#term-indigenous-people"/>
+					<un:sdgGoal href="#art_8__subpara_k" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_k" refersTo="#sdg-target-15.7"/>
+					<un:sdgTarget href="#art_8__subpara_k" refersTo="#sdg-target-15.c"/>
+					<un:sdgTarget href="#art_8__subpara_k" refersTo="#sdg-target-15.5"/>
+					<un:leoTerm href="#art_8__subpara_k" refersTo="#term-endangered-species"/>
+					<un:leoTerm href="#art_8__subpara_k" refersTo="#term-national-legislation"/>
+					<un:leoTerm href="#art_8__subpara_k" refersTo="#term-species"/>
+					<un:sdgGoal href="#art_8__subpara_l" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_8__subpara_l" refersTo="#sdg-target-15.9"/>
+					<un:leoTerm href="#art_8__subpara_l" refersTo="#term-national-legislation"/>
+					<un:sdgGoal href="#art_8__subpara_m" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_8__subpara_m" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_8__subpara_m" refersTo="#sdg-target-15.a"/>
+					<un:sdgTarget href="#art_8__subpara_m" refersTo="#sdg-target-17.3"/>
+					<un:leoTerm href="#art_8__subpara_m" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_8__subpara_m" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_8__subpara_m" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_8__subpara_m" refersTo="#term-in-situ-conservation"/>
+					<un:leoTerm href="#art_8__subpara_m" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_9__intro" refersTo="#term-access-and-benefit-sharing"/>
+					<un:leoTerm href="#art_9__intro" refersTo="#term-benefit-sharing"/>
+					<un:leoTerm href="#art_9__intro" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_9__intro" refersTo="#term-ecosystem"/>
+					<un:leoTerm href="#art_9__intro" refersTo="#term-endangered-species"/>
+					<un:leoTerm href="#art_9__intro" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_9__intro" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_9__intro" refersTo="#term-genetic-resource"/>
+					<un:sdgGoal href="#art_9__subpara_a" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_9__subpara_a" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_9__subpara_a" refersTo="#sdg-target-2.5."/>
+					<un:leoTerm href="#art_9__subpara_a" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_9__subpara_a" refersTo="#term-ex-situ-conservation"/>
+					<un:sdgGoal href="#art_9__subpara_b" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_9__subpara_b" refersTo="#sdg-goal-14"/>
+					<un:sdgTarget href="#art_9__subpara_b" refersTo="#sdg-target-2.a"/>
+					<un:sdgTarget href="#art_9__subpara_b" refersTo="#sdg-target-14.a"/>
+					<un:sdgTarget href="#art_9__subpara_b" refersTo="#sdg-target-2.5"/>
+					<un:leoTerm href="#art_9__subpara_b" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_9__subpara_b" refersTo="#term-ex-situ-conservation"/>
+					<un:leoTerm href="#art_9__subpara_b" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_9__subpara_b" refersTo="#term-enforcement"/>
+					<un:leoTerm href="#art_9__subpara_b" refersTo="#term-plant-genetic-resource"/>
+					<un:leoTerm href="#art_9__subpara_b" refersTo="#term-genetic-resource-for-food-and-agriculture"/>
+					<un:sdgGoal href="#art_9__subpara_c" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_9__subpara_c" refersTo="#sdg-target-15.5"/>
+					<un:leoTerm href="#art_9__subpara_c" refersTo="#term-endangered-species"/>
+					<un:leoTerm href="#art_9__subpara_c" refersTo="#term-species"/>
+					<un:sdgGoal href="#art_9__subpara_d" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_9__subpara_d" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_9__subpara_d" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_9__subpara_d" refersTo="#sdg-target-2.5."/>
+					<un:leoTerm href="#art_9__subpara_d" refersTo="#term-ecosystem"/>
+					<un:leoTerm href="#art_9__subpara_d" refersTo="#term-ex-situ-conservation"/>
+					<un:leoTerm href="#art_9__subpara_d" refersTo="#term-national-legislation"/>
+					<un:sdgGoal href="#art_9__subpara_e" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_9__subpara_e" refersTo="#sdg-goal-17"/>
+					<un:sdgGoal href="#art_9__subpara_e" refersTo="#sdg-goal-2"/>
+					<un:sdgTarget href="#art_9__subpara_e" refersTo="#sdg-target-15.a"/>
+					<un:sdgTarget href="#art_9__subpara_e" refersTo="#sdg-target-15.b"/>
+					<un:sdgTarget href="#art_9__subpara_e" refersTo="#sdg-target-17.3"/>
+					<un:sdgTarget href="#art_9__subpara_e" refersTo="#sdg-target-17.7"/>
+					<un:sdgTarget href="#art_9__subpara_e" refersTo="#sdg-target-2.a"/>
+					<un:leoTerm href="#art_9__subpara_e" refersTo="#term-capacity-building"/>
+					<un:leoTerm href="#art_9__subpara_e" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_9__subpara_e" refersTo="#term-ex-situ-conservation"/>
+					<un:leoTerm href="#art_9__subpara_e" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_9__subpara_e" refersTo="#term-budget"/>
+					<un:sdgGoal href="#art_10__subpara_a" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_10__subpara_a" refersTo="#sdg-goal-14"/>
+					<un:sdgTarget href="#art_10__subpara_a" refersTo="#sdg-target-15.9"/>
+					<un:sdgTarget href="#art_10__subpara_a" refersTo="#sdg-target-14.4"/>
+					<un:leoTerm href="#art_10__subpara_a" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_10__subpara_a" refersTo="#term-national-strategy"/>
+					<un:leoTerm href="#art_10__subpara_a" refersTo="#term-sustainable-use"/>
+					<un:sdgGoal href="#art_10__subpara_b" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_10__subpara_b" refersTo="#sdg-goal-14"/>
+					<un:sdgTarget href="#art_10__subpara_b" refersTo="#sdg-target-15.9"/>
+					<un:sdgTarget href="#art_10__subpara_b" refersTo="#sdg-target-14.4"/>
+					<un:leoTerm href="#art_10__subpara_b" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_10__subpara_b" refersTo="#term-national-strategy"/>
+					<un:sdgGoal href="#art_10__subpara_c" refersTo="#sdg-goal-12"/>
+					<un:sdgTarget href="#art_10__subpara_c" refersTo="#sdg-target-12.2"/>
+					<un:leoTerm href="#art_10__subpara_c" refersTo="#term-indigenous-people"/>
+					<un:leoTerm href="#art_10__subpara_c" refersTo="#term-sustainable-use"/>
+					<un:sdgGoal href="#art_10__subpara_d" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_10__subpara_d" refersTo="#sdg-goal-2"/>
+					<un:sdgTarget href="#art_10__subpara_d" refersTo="#sdg-target-15.9"/>
+					<un:sdgTarget href="#art_10__subpara_d" refersTo="#sdg-target-2.1"/>
+					<un:leoTerm href="#art_10__subpara_d" refersTo="#term-indigenous-people"/>
+					<un:sdgGoal href="#art_10__subpara_e" refersTo="#sdg-goal-12"/>
+					<un:sdgTarget href="#art_10__subpara_e" refersTo="#sdg-target-12.2"/>
+					<un:leoTerm href="#art_10__subpara_e" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_10__subpara_e" refersTo="#term-private-sector"/>
+					<un:leoTerm href="#art_10__subpara_e" refersTo="#term-trade"/>
+					<un:leoTerm href="#art_10__subpara_e" refersTo="#term-sustainable-use"/>
+					<un:sdgGoal href="#art_11" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-15.9"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-14.6"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-14.b"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-14.4"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-14.7"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-15.6"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-2.5"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-2.4"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-12.7"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-12.3"/>
+					<un:sdgTarget href="#art_11" refersTo="#sdg-target-12.2"/>
+					<un:leoTerm href="#art_11" refersTo="#term-economic-instrument"/>
+					<un:leoTerm href="#art_11" refersTo="#term-national-strategy"/>
+					<un:leoTerm href="#art_12__intro" refersTo="#term-developing-country"/>
+					<un:sdgGoal href="#art_12__subpara_a" refersTo="#sdg-goal-12"/>
+					<un:sdgGoal href="#art_12__subpara_a" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_12__subpara_a" refersTo="#sdg-target-12.8"/>
+					<un:sdgTarget href="#art_12__subpara_a" refersTo="#sdg-target-17.9"/>
+					<un:sdgTarget href="#art_12__subpara_a" refersTo="#sdg-target-17.18"/>
+					<un:leoTerm href="#art_12__subpara_a" refersTo="#term-capacity-building"/>
+					<un:leoTerm href="#art_12__subpara_a" refersTo="#term-monitoring"/>
+					<un:leoTerm href="#art_12__subpara_a" refersTo="#term-evaluation"/>
+					<un:leoTerm href="#art_12__subpara_a" refersTo="#term-research"/>
+					<un:sdgGoal href="#art_12__subpara_b" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_12__subpara_b" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_12__subpara_b" refersTo="#sdg-target-14.a"/>
+					<un:sdgTarget href="#art_12__subpara_b" refersTo="#sdg-target-17.6"/>
+					<un:leoTerm href="#art_12__subpara_b" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_12__subpara_b" refersTo="#term-research"/>
+					<un:leoTerm href="#art_12__subpara_b" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_12__subpara_b" refersTo="#term-technology"/>
+					<un:sdgGoal href="#art_12__subpara_c" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_12__subpara_c" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_12__subpara_c" refersTo="#sdg-target-14.a"/>
+					<un:sdgTarget href="#art_12__subpara_c" refersTo="#sdg-target-17.6"/>
+					<un:leoTerm href="#art_12__subpara_c" refersTo="#term-capacity-building"/>
+					<un:leoTerm href="#art_12__subpara_c" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_12__subpara_c" refersTo="#term-research"/>
+					<un:leoTerm href="#art_12__subpara_c" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_12__subpara_c" refersTo="#term-advisory-body"/>
+					<un:sdgGoal href="#art_13__subpara_a" refersTo="#sdg-goal-4"/>
+					<un:sdgGoal href="#art_13__subpara_a" refersTo="#sdg-goal-12"/>
+					<un:sdgTarget href="#art_13__subpara_a" refersTo="#sdg-target-4.7"/>
+					<un:sdgTarget href="#art_13__subpara_a" refersTo="#sdg-target-12.8"/>
+					<un:leoTerm href="#art_13__subpara_a" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#art_13__subpara_a" refersTo="#term-conservation"/>
+					<un:leoTerm href="#art_13__subpara_a" refersTo="#term-capacity-building"/>
+					<un:sdgGoal href="#art_13__subpara_b" refersTo="#sdg-goal-4"/>
+					<un:sdgGoal href="#art_13__subpara_b" refersTo="#sdg-goal-12"/>
+					<un:sdgTarget href="#art_13__subpara_b" refersTo="#sdg-target-4.7"/>
+					<un:sdgTarget href="#art_13__subpara_b" refersTo="#sdg-target-12.8"/>
+					<un:leoTerm href="#art_13__subpara_b" refersTo="#term-capacity-building"/>
+					<un:leoTerm href="#art_13__subpara_b" refersTo="#term-international-cooperation"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_a" refersTo="#sdg-goal-12"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_a" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_a" refersTo="#sdg-goal-16"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_a" refersTo="#sdg-goal-11"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_a" refersTo="#sdg-goal-14"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_a" refersTo="#sdg-goal-5"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_a" refersTo="#sdg-target-12.7"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_a" refersTo="#sdg-target-15.9"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_a" refersTo="#sdg-target-16.10"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_a" refersTo="#sdg-target-11.6"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_a" refersTo="#sdg-target-14.2"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_a" refersTo="#sdg-target-5.a"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_a" refersTo="#sdg-target-16.7"/>
+					<un:leoTerm href="#art_14__para_1__subpara_a" refersTo="#term-environmental-impact-assessment"/>
+					<un:leoTerm href="#art_14__para_1__subpara_a" refersTo="#term-public-participation"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_b" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_b" refersTo="#sdg-target-15.9"/>
+					<un:leoTerm href="#art_14__para_1__subpara_b" refersTo="#term-agrobiodiversity"/>
+					<un:leoTerm href="#art_14__para_1__subpara_b" refersTo="#term-environmental-impact-assessment"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_c" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_c" refersTo="#sdg-target-17.15"/>
+					<un:leoTerm href="#art_14__para_1__subpara_c" refersTo="#term-access-to-information"/>
+					<un:leoTerm href="#art_14__para_1__subpara_c" refersTo="#term-notification-obligation"/>
+					<un:leoTerm href="#art_14__para_1__subpara_c" refersTo="#term-prevention"/>
+					<un:leoTerm href="#art_14__para_1__subpara_c" refersTo="#term-synergy"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_d" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_d" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_d" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_d" refersTo="#sdg-target-17.14"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_d" refersTo="#sdg-target-17.15"/>
+					<un:leoTerm href="#art_14__para_1__subpara_d" refersTo="#term-notification-obligation"/>
+					<un:leoTerm href="#art_14__para_1__subpara_d" refersTo="#term-prevention"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_e" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_e" refersTo="#sdg-goal-11"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_e" refersTo="#sdg-goal-13"/>
+					<un:sdgGoal href="#art_14__para_1__subpara_e" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_e" refersTo="#sdg-target-2.4"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_e" refersTo="#sdg-target-11.b"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_e" refersTo="#sdg-target-13.1"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_e" refersTo="#sdg-target-15.5"/>
+					<un:sdgTarget href="#art_14__para_1__subpara_e" refersTo="#sdg-target-15.9"/>
+					<un:leoTerm href="#art_14__para_1__subpara_e" refersTo="#term-disaster"/>
+					<un:leoTerm href="#art_14__para_1__subpara_e" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_14__para_2" refersTo="#term-environmental-damage"/>
+					<un:leoTerm href="#art_14__para_2" refersTo="#term-liability"/>
+					<un:leoTerm href="#art_14__para_2" refersTo="#term-compensation"/>
+					<un:sdgGoal href="#art_15__para_1" refersTo="#sdg-goal-17"/>
+					<un:sdgGoal href="#art_15__para_1" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_15__para_1" refersTo="#sdg-target-17.15"/>
+					<un:sdgTarget href="#art_15__para_1" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_15__para_1" refersTo="#term-access-to-genetic-resources"/>
+					<un:leoTerm href="#art_15__para_1" refersTo="#term-sovereignty"/>
+					<un:sdgGoal href="#art_15__para_2" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_15__para_2" refersTo="#sdg-goal-17"/>
+					<un:sdgGoal href="#art_15__para_2" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_15__para_2" refersTo="#sdg-target-2.5"/>
+					<un:sdgTarget href="#art_15__para_2" refersTo="#sdg-target-17.6"/>
+					<un:sdgTarget href="#art_15__para_2" refersTo="#sdg-target-17.9"/>
+					<un:sdgTarget href="#art_15__para_2" refersTo="#sdg-target-17.5"/>
+					<un:sdgTarget href="#art_15__para_2" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_15__para_2" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_15__para_2" refersTo="#term-sustainable-use"/>
+					<un:sdgGoal href="#art_15__para_3" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_15__para_3" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_15__para_3" refersTo="#term-genetic-resource"/>
+					<un:sdgGoal href="#art_15__para_4" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_15__para_4" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_15__para_4" refersTo="#term-mutually-agreed-term"/>
+					<un:sdgGoal href="#art_15__para_5" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_15__para_5" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_15__para_5" refersTo="#term-prior-informed-consent"/>
+					<un:leoTerm href="#art_15__para_5" refersTo="#term-illegal-trade"/>
+					<un:sdgGoal href="#art_15__para_6" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_15__para_6" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_15__para_6" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_15__para_6" refersTo="#term-research"/>
+					<un:leoTerm href="#art_15__para_6" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_15__para_6" refersTo="#term-advisory-body"/>
+					<un:sdgGoal href="#art_15__para_7" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_15__para_7" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_15__para_7" refersTo="#term-access-and-benefit-sharing"/>
+					<un:leoTerm href="#art_15__para_7" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_15__para_7" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_15__para_7" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_15__para_7" refersTo="#term-mutually-agreed-term"/>
+					<un:leoTerm href="#art_15__para_7" refersTo="#term-national-strategy"/>
+					<un:leoTerm href="#art_15__para_7" refersTo="#term-national-legislation"/>
+					<un:leoTerm href="#art_15__para_7" refersTo="#term-research"/>
+					<un:sdgGoal href="#art_16__para_1" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_16__para_1" refersTo="#sdg-target-17.6"/>
+					<un:leoTerm href="#art_16__para_1" refersTo="#term-biotechnology"/>
+					<un:leoTerm href="#art_16__para_1" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_16__para_1" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_16__para_1" refersTo="#term-technology-transfer"/>
+					<un:sdgGoal href="#art_16__para_2" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_16__para_2" refersTo="#sdg-target-17.7"/>
+					<un:leoTerm href="#art_16__para_2" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_16__para_2" refersTo="#term-intellectual-property-right"/>
+					<un:leoTerm href="#art_16__para_2" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_16__para_2" refersTo="#term-technology-transfer"/>
+					<un:sdgGoal href="#art_16__para_3" refersTo="#sdg-goal-17"/>
+					<un:sdgGoal href="#art_16__para_3" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_16__para_3" refersTo="#sdg-target-17.7"/>
+					<un:sdgTarget href="#art_16__para_3" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_16__para_3" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_16__para_3" refersTo="#term-intellectual-property-right"/>
+					<un:leoTerm href="#art_16__para_3" refersTo="#term-mutually-agreed-term"/>
+					<un:leoTerm href="#art_16__para_3" refersTo="#term-national-strategy"/>
+					<un:leoTerm href="#art_16__para_3" refersTo="#term-national-legislation"/>
+					<un:leoTerm href="#art_16__para_3" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_16__para_3" refersTo="#term-technology-transfer"/>
+					<un:sdgGoal href="#art_16__para_4" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_16__para_4" refersTo="#sdg-target-17.6"/>
+					<un:sdgTarget href="#art_16__para_4" refersTo="#sdg-target-17.7"/>
+					<un:sdgTarget href="#art_16__para_4" refersTo="#sdg-target-17.8"/>
+					<un:leoTerm href="#art_16__para_4" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_16__para_4" refersTo="#term-private-sector"/>
+					<un:leoTerm href="#art_16__para_4" refersTo="#term-trade"/>
+					<un:leoTerm href="#art_16__para_4" refersTo="#term-research"/>
+					<un:leoTerm href="#art_16__para_4" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_16__para_4" refersTo="#term-technology-transfer"/>
+					<un:leoTerm href="#art_16__para_5" refersTo="#term-intellectual-property-right"/>
+					<un:leoTerm href="#art_16__para_5" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_16__para_5" refersTo="#term-technology"/>
+					<un:sdgGoal href="#art_17__para_1" refersTo="#sdg-goal-16"/>
+					<un:sdgTarget href="#art_17__para_1" refersTo="#sdg-target-16.7"/>
+					<un:sdgTarget href="#art_17__para_1" refersTo="#sdg-target-16.6"/>
+					<un:sdgTarget href="#art_17__para_1" refersTo="#sdg-target-16.10"/>
+					<un:leoTerm href="#art_17__para_1" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_17__para_1" refersTo="#term-access-to-information"/>
+					<un:sdgGoal href="#art_17__para_2" refersTo="#sdg-goal-16"/>
+					<un:sdgTarget href="#art_17__para_2" refersTo="#sdg-target-16.6"/>
+					<un:sdgTarget href="#art_17__para_2" refersTo="#sdg-target-16.7"/>
+					<un:sdgTarget href="#art_17__para_2" refersTo="#sdg-target-16.10"/>
+					<un:leoTerm href="#art_17__para_2" refersTo="#term-access-to-information"/>
+					<un:leoTerm href="#art_17__para_2" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_17__para_2" refersTo="#term-advisory-body"/>
+					<un:leoTerm href="#art_17__para_2" refersTo="#term-research"/>
+					<un:leoTerm href="#art_17__para_2" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_17__para_2" refersTo="#term-indigenous-knowledge"/>
+					<un:sdgGoal href="#art_18__para_1" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_18__para_1" refersTo="#sdg-target-17.7"/>
+					<un:sdgTarget href="#art_18__para_1" refersTo="#sdg-target-17.9"/>
+					<un:leoTerm href="#art_18__para_1" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_18__para_1" refersTo="#term-synergy"/>
+					<un:leoTerm href="#art_18__para_1" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_18__para_1" refersTo="#term-advisory-body"/>
+					<un:leoTerm href="#art_18__para_1" refersTo="#term-research"/>
+					<un:leoTerm href="#art_18__para_1" refersTo="#term-technology"/>
+					<un:sdgGoal href="#art_18__para_2" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_18__para_2" refersTo="#sdg-target-17.7"/>
+					<un:sdgTarget href="#art_18__para_2" refersTo="#sdg-target-17.9"/>
+					<un:leoTerm href="#art_18__para_2" refersTo="#term-capacity-building"/>
+					<un:leoTerm href="#art_18__para_2" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_18__para_2" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_18__para_2" refersTo="#term-national-strategy"/>
+					<un:sdgGoal href="#art_18__para_3" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_18__para_3" refersTo="#sdg-target-17.6"/>
+					<un:leoTerm href="#art_18__para_3" refersTo="#term-clearing-house-mechanism"/>
+					<un:leoTerm href="#art_18__para_3" refersTo="#term-de-listing"/>
+					<un:leoTerm href="#art_18__para_3" refersTo="#term-access-to-information"/>
+					<un:leoTerm href="#art_18__para_3" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_18__para_3" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_18__para_3" refersTo="#term-advisory-body"/>
+					<un:leoTerm href="#art_18__para_3" refersTo="#term-research"/>
+					<un:leoTerm href="#art_18__para_3" refersTo="#term-technology"/>
+					<un:sdgGoal href="#art_18__para_4" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_18__para_4" refersTo="#sdg-target-17.7"/>
+					<un:sdgTarget href="#art_18__para_4" refersTo="#sdg-target-17.16"/>
+					<un:sdgTarget href="#art_18__para_4" refersTo="#sdg-target-17.17"/>
+					<un:sdgTarget href="#art_18__para_4" refersTo="#sdg-target-17.9"/>
+					<un:leoTerm href="#art_18__para_4" refersTo="#term-capacity-building"/>
+					<un:leoTerm href="#art_18__para_4" refersTo="#term-indigenous-people"/>
+					<un:leoTerm href="#art_18__para_4" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_18__para_4" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_18__para_4" refersTo="#term-advisory-body"/>
+					<un:leoTerm href="#art_18__para_4" refersTo="#term-research"/>
+					<un:leoTerm href="#art_18__para_4" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_18__para_4" refersTo="#term-indigenous-knowledge"/>
+					<un:sdgGoal href="#art_18__para_5" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_18__para_5" refersTo="#sdg-target-17.7"/>
+					<un:sdgTarget href="#art_18__para_5" refersTo="#sdg-target-17.9"/>
+					<un:leoTerm href="#art_18__para_5" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_18__para_5" refersTo="#term-research"/>
+					<un:leoTerm href="#art_18__para_5" refersTo="#term-technology"/>
+					<un:sdgGoal href="#art_19__para_1" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_19__para_1" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_19__para_1" refersTo="#sdg-target-2.5"/>
+					<un:sdgTarget href="#art_19__para_1" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_19__para_1" refersTo="#term-biotechnology"/>
+					<un:leoTerm href="#art_19__para_1" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_19__para_1" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_19__para_1" refersTo="#term-national-legislation"/>
+					<un:leoTerm href="#art_19__para_1" refersTo="#term-research"/>
+					<un:leoTerm href="#art_19__para_1" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_19__para_1" refersTo="#term-advisory-body"/>
+					<un:sdgGoal href="#art_19__para_2" refersTo="#sdg-goal-2"/>
+					<un:sdgGoal href="#art_19__para_2" refersTo="#sdg-goal-15"/>
+					<un:sdgTarget href="#art_19__para_2" refersTo="#sdg-target-2.5"/>
+					<un:sdgTarget href="#art_19__para_2" refersTo="#sdg-target-15.6"/>
+					<un:leoTerm href="#art_19__para_2" refersTo="#term-access-and-benefit-sharing"/>
+					<un:leoTerm href="#art_19__para_2" refersTo="#term-biotechnology"/>
+					<un:leoTerm href="#art_19__para_2" refersTo="#term-genetic-resource"/>
+					<un:leoTerm href="#art_19__para_2" refersTo="#term-mutually-agreed-term"/>
+					<un:leoTerm href="#art_19__para_3" refersTo="#term-biotechnology"/>
+					<un:leoTerm href="#art_19__para_3" refersTo="#term-living-modified-organism"/>
+					<un:leoTerm href="#art_19__para_3" refersTo="#term-protocol"/>
+					<un:leoTerm href="#art_19__para_3" refersTo="#term-illegal-trade"/>
+					<un:sdgGoal href="#art_19__para_4" refersTo="#sdg-goal-16"/>
+					<un:sdgTarget href="#art_19__para_4" refersTo="#sdg-target-16.6"/>
+					<un:sdgTarget href="#art_19__para_4" refersTo="#sdg-target-16.7"/>
+					<un:sdgTarget href="#art_19__para_4" refersTo="#sdg-target-16.10"/>
+					<un:leoTerm href="#art_19__para_4" refersTo="#term-access-to-information"/>
+					<un:leoTerm href="#art_19__para_4" refersTo="#term-living-modified-organism"/>
+					<un:leoTerm href="#art_19__para_4" refersTo="#term-illegal-trade"/>
+					<un:sdgGoal href="#art_20__para_1" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_20__para_1" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_20__para_1" refersTo="#sdg-target-15.a"/>
+					<un:sdgTarget href="#art_20__para_1" refersTo="#sdg-target-15.b"/>
+					<un:sdgTarget href="#art_20__para_1" refersTo="#sdg-target-17.3"/>
+					<un:leoTerm href="#art_20__para_1" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_20__para_1" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_20__para_1" refersTo="#term-national-strategy"/>
+					<un:sdgGoal href="#art_20__para_2" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_20__para_2" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_20__para_2" refersTo="#sdg-target-15.a"/>
+					<un:sdgTarget href="#art_20__para_2" refersTo="#sdg-target-15.b"/>
+					<un:sdgTarget href="#art_20__para_2" refersTo="#sdg-target-17.3"/>
+					<un:leoTerm href="#art_20__para_2" refersTo="#term-developed-country"/>
+					<un:leoTerm href="#art_20__para_2" refersTo="#term-economy-in-transition"/>
+					<un:leoTerm href="#art_20__para_2" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_20__para_2" refersTo="#term-budget"/>
+					<un:sdgGoal href="#art_20__para_3" refersTo="#sdg-goal-15"/>
+					<un:sdgGoal href="#art_20__para_3" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_20__para_3" refersTo="#sdg-target-15.a"/>
+					<un:sdgTarget href="#art_20__para_3" refersTo="#sdg-target-15.b"/>
+					<un:sdgTarget href="#art_20__para_3" refersTo="#sdg-target-17.3"/>
+					<un:leoTerm href="#art_20__para_3" refersTo="#term-developed-country"/>
+					<un:leoTerm href="#art_20__para_3" refersTo="#term-developing-country"/>
+					<un:leoTerm href="#art_20__para_3" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_20__para_3" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_20__para_4" refersTo="#term-developed-country"/>
+					<un:leoTerm href="#art_20__para_4" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_20__para_4" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_20__para_4" refersTo="#term-poverty"/>
+					<un:leoTerm href="#art_20__para_4" refersTo="#term-sustainable-development"/>
+					<un:leoTerm href="#art_20__para_4" refersTo="#term-technology-transfer"/>
+					<un:leoTerm href="#art_20__para_5" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_20__para_5" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_20__para_5" refersTo="#term-vulnerability"/>
+					<un:leoTerm href="#art_20__para_5" refersTo="#term-common-but-differentiated-responsibilities"/>
+					<un:leoTerm href="#art_20__para_5" refersTo="#term-technology-transfer"/>
+					<un:leoTerm href="#art_20__para_6" refersTo="#term-common-but-differentiated-responsibilities"/>
+					<un:leoTerm href="#art_20__para_7" refersTo="#term-common-but-differentiated-responsibilities"/>
+					<un:leoTerm href="#art_20__para_7" refersTo="#term-vulnerability"/>
+					<un:leoTerm href="#art_21__para_1" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_21__para_1" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_21__para_2" refersTo="#term-de-listing"/>
+					<un:leoTerm href="#art_21__para_2" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_21__para_2" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_21__para_3" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_21__para_3" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_21__para_4" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_21__para_4" refersTo="#term-budget"/>
+					<un:sdgGoal href="#art_22__para_1" refersTo="#sdg-goal-17"/>
+					<un:sdgTarget href="#art_22__para_1" refersTo="#sdg-target-17.15"/>
+					<un:leoTerm href="#art_22__para_1" refersTo="#term-synergy"/>
+					<un:leoTerm href="#art_22__para_1" refersTo="#term-international-agreement"/>
+					<un:leoTerm href="#art_22__para_1" refersTo="#term-rules-of-procedure"/>
+					<un:sdgGoal href="#art_22__para_2" refersTo="#sdg-goal-14"/>
+					<un:sdgTarget href="#art_22__para_2" refersTo="#sdg-target-14.2"/>
+					<un:sdgTarget href="#art_22__para_2" refersTo="#sdg-target-14.c"/>
+					<un:leoTerm href="#art_22__para_2" refersTo="#term-synergy"/>
+					<un:leoTerm href="#art_23__para_1" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_23__para_1" refersTo="#term-rules-of-procedure"/>
+					<un:leoTerm href="#art_23__para_2" refersTo="#term-extraordinary-conference-of-the-parties"/>
+					<un:leoTerm href="#art_23__para_2" refersTo="#term-rules-of-procedure"/>
+					<un:leoTerm href="#art_23__para_2" refersTo="#term-secretariat"/>
+					<un:leoTerm href="#art_23__para_3" refersTo="#term-rules-of-procedure"/>
+					<un:leoTerm href="#art_23__para_4" refersTo="#term-implementation"/>
+					<un:leoTerm href="#art_23__para_4__subpara_a" refersTo="#term-national-report"/>
+					<un:leoTerm href="#art_23__para_4__subpara_a" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_23__para_4__subpara_b" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_23__para_4__subpara_c" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_23__para_4__subpara_c" refersTo="#term-protocol"/>
+					<un:leoTerm href="#art_23__para_4__subpara_d" refersTo="#term-amendment-procedures"/>
+					<un:leoTerm href="#art_23__para_4__subpara_d" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_23__para_4__subpara_e" refersTo="#term-amendment-procedures"/>
+					<un:leoTerm href="#art_23__para_4__subpara_e" refersTo="#term-protocol"/>
+					<un:leoTerm href="#art_23__para_4__subpara_f" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_23__para_4__subpara_g" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_23__para_4__subpara_g" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_23__para_4__subpara_h" refersTo="#term-rules-of-procedure"/>
+					<un:leoTerm href="#art_23__para_4__subpara_h" refersTo="#term-synergy"/>
+					<un:leoTerm href="#art_23__para_4__subpara_h" refersTo="#term-secretariat"/>
+					<un:leoTerm href="#art_23__para_4__subpara_i" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_23__para_5" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_23__para_5" refersTo="#term-non-governmental-organization"/>
+					<un:leoTerm href="#art_23__para_5" refersTo="#term-observer"/>
+					<un:leoTerm href="#art_23__para_5" refersTo="#term-rules-of-procedure"/>
+					<un:leoTerm href="#art_23__para_5" refersTo="#term-secretariat"/>
+					<un:leoTerm href="#art_25__para_1" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_25__para_2" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_25__para_2" refersTo="#term-advisory-body"/>
+					<un:leoTerm href="#art_25__para_2" refersTo="#term-research"/>
+					<un:leoTerm href="#art_25__para_2" refersTo="#term-technology-transfer"/>
+					<un:leoTerm href="#art_25__para_2__subpara_a" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_25__para_2__subpara_a" refersTo="#term-advisory-body"/>
+					<un:leoTerm href="#art_25__para_2__subpara_a" refersTo="#term-research"/>
+					<un:leoTerm href="#art_25__para_2__subpara_a" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_25__para_2__subpara_b" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_25__para_2__subpara_b" refersTo="#term-advisory-body"/>
+					<un:leoTerm href="#art_25__para_2__subpara_b" refersTo="#term-research"/>
+					<un:leoTerm href="#art_25__para_2__subpara_c" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_25__para_2__subpara_d" refersTo="#term-international-cooperation"/>
+					<un:leoTerm href="#art_25__para_2__subpara_d" refersTo="#term-research"/>
+					<un:leoTerm href="#art_25__para_2__subpara_d" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_25__para_2__subpara_e" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_25__para_2__subpara_e" refersTo="#term-advisory-body"/>
+					<un:leoTerm href="#art_25__para_2__subpara_e" refersTo="#term-research"/>
+					<un:leoTerm href="#art_25__para_2__subpara_e" refersTo="#term-technology"/>
+					<un:leoTerm href="#art_25__para_3" refersTo="#term-subsidiary-body"/>
+					<un:leoTerm href="#art_26" refersTo="#term-national-report"/>
+					<un:leoTerm href="#art_27__para_1" refersTo="#term-dispute-settlement"/>
+					<un:leoTerm href="#art_27__para_2" refersTo="#term-dispute-settlement"/>
+					<un:leoTerm href="#art_27__para_3" refersTo="#term-dispute-settlement"/>
+					<un:leoTerm href="#art_27__para_3__subpara_a" refersTo="#term-dispute-settlement"/>
+					<un:leoTerm href="#art_27__para_3__subpara_b" refersTo="#term-dispute-settlement"/>
+					<un:leoTerm href="#art_27__para_4" refersTo="#term-dispute-settlement"/>
+					<un:leoTerm href="#art_27__para_5" refersTo="#term-dispute-settlement"/>
+					<un:leoTerm href="#art_28__para_1" refersTo="#term-protocol"/>
+					<un:leoTerm href="#art_28__para_2" refersTo="#term-protocol"/>
+					<un:leoTerm href="#art_28__para_3" refersTo="#term-protocol"/>
+					<un:leoTerm href="#art_29__para_2" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_29__para_2" refersTo="#term-secretariat"/>
+					<un:leoTerm href="#art_29__para_3" refersTo="#term-amendment-procedures"/>
+					<un:leoTerm href="#art_29__para_4" refersTo="#term-acceptance"/>
+					<un:leoTerm href="#art_29__para_4" refersTo="#term-amendment-procedures"/>
+					<un:leoTerm href="#art_29__para_4" refersTo="#term-approval"/>
+					<un:leoTerm href="#art_29__para_4" refersTo="#term-entry-into-force"/>
+					<un:leoTerm href="#art_29__para_4" refersTo="#term-ratification"/>
+					<un:leoTerm href="#art_29__para_5" refersTo="#term-amendment-procedures"/>
+					<un:leoTerm href="#art_30__para_1" refersTo="#term-amendment-procedures"/>
+					<un:leoTerm href="#art_30__para_1" refersTo="#term-annex"/>
+					<un:leoTerm href="#art_30__para_1" refersTo="#term-amendment"/>
+					<un:leoTerm href="#art_32__para_1" refersTo="#term-non-party"/>
+					<un:leoTerm href="#art_32__para_1" refersTo="#term-observer"/>
+					<un:leoTerm href="#art_32__para_2" refersTo="#term-non-party"/>
+					<un:leoTerm href="#art_32__para_2" refersTo="#term-observer"/>
+					<un:leoTerm href="#art_33" refersTo="#term-entry-into-force"/>
+					<un:leoTerm href="#art_33" refersTo="#term-ratification"/>
+					<un:leoTerm href="#art_33" refersTo="#term-signature"/>
+					<un:leoTerm href="#art_35__para_1" refersTo="#term-accession"/>
+					<un:leoTerm href="#art_36__para_1" refersTo="#term-entry-into-force"/>
+					<un:leoTerm href="#art_36__para_1" refersTo="#term-ratification"/>
+					<un:leoTerm href="#art_36__para_2" refersTo="#term-acceptance"/>
+					<un:leoTerm href="#art_36__para_2" refersTo="#term-accession"/>
+					<un:leoTerm href="#art_36__para_2" refersTo="#term-approval"/>
+					<un:leoTerm href="#art_36__para_2" refersTo="#term-entry-into-force"/>
+					<un:leoTerm href="#art_36__para_2" refersTo="#term-ratification"/>
+					<un:leoTerm href="#art_36__para_3" refersTo="#term-acceptance"/>
+					<un:leoTerm href="#art_36__para_3" refersTo="#term-accession"/>
+					<un:leoTerm href="#art_36__para_3" refersTo="#term-approval"/>
+					<un:leoTerm href="#art_36__para_3" refersTo="#term-entry-into-force"/>
+					<un:leoTerm href="#art_36__para_3" refersTo="#term-ratification"/>
+					<un:leoTerm href="#art_36__para_4" refersTo="#term-acceptance"/>
+					<un:leoTerm href="#art_36__para_4" refersTo="#term-accession"/>
+					<un:leoTerm href="#art_36__para_4" refersTo="#term-approval"/>
+					<un:leoTerm href="#art_36__para_4" refersTo="#term-entry-into-force"/>
+					<un:leoTerm href="#art_36__para_4" refersTo="#term-ratification"/>
+					<un:leoTerm href="#art_36__para_5" refersTo="#term-acceptance"/>
+					<un:leoTerm href="#art_36__para_5" refersTo="#term-accession"/>
+					<un:leoTerm href="#art_36__para_5" refersTo="#term-approval"/>
+					<un:leoTerm href="#art_36__para_5" refersTo="#term-entry-into-force"/>
+					<un:leoTerm href="#art_36__para_5" refersTo="#term-ratification"/>
+					<un:leoTerm href="#art_38__para_1" refersTo="#term-withdrawal"/>
+					<un:leoTerm href="#art_38__para_2" refersTo="#term-withdrawal"/>
+					<un:leoTerm href="#art_38__para_3" refersTo="#term-withdrawal"/>
+					<un:leoTerm href="#art_39" refersTo="#term-financial-mechanism"/>
+					<un:leoTerm href="#art_39" refersTo="#term-budget"/>
+					<un:leoTerm href="#art_39" refersTo="#term-synergy"/>
+					<un:leoTerm href="#art_40" refersTo="#term-conference-of-the-parties"/>
+					<un:leoTerm href="#art_40" refersTo="#term-secretariat"/>
+					<un:leoTerm href="#art_41" refersTo="#term-depository"/>
+					<un:leoTerm href="#art_41" refersTo="#term-entry-into-force"/>
+					<un:leoTerm href="#art_41" refersTo="#term-secretariat"/>
+					<un:leoTerm href="#art_42" refersTo="#term-depository"/>
+				</otherAnalysis>
+			</analysis>
+			<references source="">
+				<TLCConcept eId="sdg-goal-2" showAs="End hunger, achieve food security and improved nutrition and promote sustainable agriculture" href="https://www.informea.org/en/goal/goal-2-end-hunger-achieve-food-security-and-improved-nutrition-and-promote-sustainable"/>
+				<TLCConcept eId="sdg-goal-3" showAs="Ensure healthy lives and promote well-being for all at all ages" href="https://www.informea.org/en/goal/goal-3-ensure-healthy-lives-and-promote-well-being-all-all-ages"/>
+				<TLCConcept eId="sdg-goal-4" showAs="Ensure inclusive and equitable quality education promote lifelong learning opportunities for all" href="https://www.informea.org/en/goal/goal-4-ensure-inclusive-and-equitable-quality-education-promote-lifelong-learning-opportunities"/>
+				<TLCConcept eId="sdg-goal-5" showAs="Achieve gender equality and empower all women and girls" href="https://www.informea.org/en/goal/goal-5-achieve-gender-equality-and-empower-all-women-and-girls"/>
+				<TLCConcept eId="sdg-goal-8" showAs="Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all" href="https://www.informea.org/en/goal/goal-8-promote-sustained-inclusive-and-sustainable-economic-growth-full-and-productive"/>
+				<TLCConcept eId="sdg-goal-11" showAs="Make cities and human settlements inclusive, safe, resilient and sustainable" href="https://www.informea.org/en/goal/goal-11-make-cities-and-human-settlements-inclusive-safe-resilient-and-sustainable"/>
+				<TLCConcept eId="sdg-goal-12" showAs="Ensure sustainable consumption and production patterns" href="https://www.informea.org/en/goal/goal-12-ensure-sustainable-consumption-and-production-patterns"/>
+				<TLCConcept eId="sdg-goal-13" showAs="Take urgent action to combat climate change and its impacts" href="https://www.informea.org/en/goal/goal-13-take-urgent-action-combat-climate-change-and-its-impacts"/>
+				<TLCConcept eId="sdg-goal-14" showAs="Conserve and sustainably use the oceans, seas and marine resources for sustainable development" href="https://www.informea.org/en/goal/goal-14-conserve-and-sustainably-use-oceans-seas-and-marine-resources-sustainable-development"/>
+				<TLCConcept eId="sdg-goal-15" showAs="Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss" href="https://www.informea.org/en/goal/goal-15-protect-restore-and-promote-sustainable-use-terrestrial-ecosystems-sustainably-manage"/>
+				<TLCConcept eId="sdg-goal-16" showAs="Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels" href="https://www.informea.org/en/goal/goal-16-promote-peaceful-and-inclusive-societies-sustainable-development-provide-access-justice"/>
+				<TLCConcept eId="sdg-goal-17" showAs="Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development" href="https://www.informea.org/en/goal/goal-17-strengthen-means-implementation-and-revitalize-global-partnership-sustainable"/>				
+				<TLCConcept eId="sdg-target-2.1" showAs="By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round" href=""/>
+				<TLCConcept eId="sdg-target-2.4" showAs="By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality" href=""/>
+				<TLCConcept eId="sdg-target-2.5" showAs="By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed" href=""/>
+				<TLCConcept eId="sdg-target-2.a" showAs="Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries" href=""/>
+				<TLCConcept eId="sdg-target-3.9" showAs="By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination" href=""/>
+				<TLCConcept eId="sdg-target-3.d" showAs="Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks" href=""/>
+				<TLCConcept eId="sdg-target-4.7" showAs="By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development" href=""/>
+				<TLCConcept eId="sdg-target-5.a" showAs="Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws" href=""/>
+				<TLCConcept eId="sdg-target-8.4" showAs="Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10-Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead" href=""/>
+				<TLCConcept eId="sdg-target-11.6" showAs="By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management" href=""/>
+				<TLCConcept eId="sdg-target-11.b" showAs="By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, holistic disaster risk management at all levels" href=""/>
+				<TLCConcept eId="sdg-target-12.2" showAs="By 2030, achieve the sustainable management and efficient use of natural resources" href=""/>
+				<TLCConcept eId="sdg-target-12.3" showAs="By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses" href=""/>
+				<TLCConcept eId="sdg-target-12.7" showAs="Promote public procurement practices that are sustainable, in accordance with national policies and priorities" href=""/>
+				<TLCConcept eId="sdg-target-12.8" showAs="By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature" href=""/>
+				<TLCConcept eId="sdg-target-13.1" showAs="Strengthen resilience and adaptive capacity to climate related hazards and natural disasters in all countries" href=""/>
+				<TLCConcept eId="sdg-target-14.2" showAs="By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans" href=""/>
+				<TLCConcept eId="sdg-target-14.3" showAs="Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels" href=""/>
+				<TLCConcept eId="sdg-target-14.4" showAs="By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics" href=""/>
+				<TLCConcept eId="sdg-target-14.5" showAs="By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information" href=""/>
+				<TLCConcept eId="sdg-target-14.6" showAs="By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiationb" href=""/>
+				<TLCConcept eId="sdg-target-14.7" showAs="By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism" href=""/>
+				<TLCConcept eId="sdg-target-14.a" showAs="Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries" href=""/>
+				<TLCConcept eId="sdg-target-14.b" showAs="Provide access for small-scale artisanal fishers to marine resources and markets" href=""/>
+				<TLCConcept eId="sdg-target-14.c" showAs="Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of “The future we want”" href=""/>
+				<TLCConcept eId="sdg-target-15.1" showAs="By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements" href=""/>
+				<TLCConcept eId="sdg-target-15.2" showAs="By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally" href=""/>
+				<TLCConcept eId="sdg-target-15.4" showAs="By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development" href=""/>
+				<TLCConcept eId="sdg-target-15.5" showAs="Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species" href=""/>
+				<TLCConcept eId="sdg-target-15.6" showAs="Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed" href=""/>
+				<TLCConcept eId="sdg-target-15.7" showAs="" href=""/>
+				<TLCConcept eId="sdg-target-15.8" showAs="By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species" href=""/>
+				<TLCConcept eId="sdg-target-15.9" showAs="By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts" href=""/>
+				<TLCConcept eId="sdg-target-15.a" showAs="Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems" href=""/>
+				<TLCConcept eId="sdg-target-15.b" showAs="Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation" href=""/>
+				<TLCConcept eId="sdg-target-15.c" showAs="Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities" href=""/>
+				<TLCConcept eId="sdg-target-16.6" showAs="Develop effective, accountable and transparent institutions at all levels" href=""/>
+				<TLCConcept eId="sdg-target-16.7" showAs="Ensure responsive, inclusive, participatory and representative decision-making at all levels" href=""/>
+				<TLCConcept eId="sdg-target-16.10" showAs="Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements" href=""/>
+				<TLCConcept eId="sdg-target-17.3" showAs="Mobilize additional financial resources for developing countries from multiple sources" href=""/>
+				<TLCConcept eId="sdg-target-17.5" showAs="Adopt and implement investment promotion regimes for least developed countries" href=""/>
+				<TLCConcept eId="sdg-target-17.6" showAs="Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism" href=""/>
+				<TLCConcept eId="sdg-target-17.7" showAs="Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed" href=""/>
+				<TLCConcept eId="sdg-target-17.8" showAs="Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology" href=""/>
+				<TLCConcept eId="sdg-target-17.9" showAs="Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation" href=""/>
+				<TLCConcept eId="sdg-target-17.14" showAs="Enhance policy coherence for sustainable development" href=""/>
+				<TLCConcept eId="sdg-target-17.15" showAs="Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development" href=""/>
+				<TLCConcept eId="sdg-target-17.16" showAs="Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries" href=""/>
+				<TLCConcept eId="sdg-target-17.17" showAs="Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships" href=""/>
+				<TLCConcept eId="sdg-target-17.18" showAs="By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts" href=""/>
+				<TLCLocation eId="location-rio" showAs="Rio de Janeiro" href=""/>
+				<TLCTerm eId="term-acceptance" showAs="acceptance" href="http://www.informea.org/terms/acceptance"/>
+				<TLCTerm eId="term-access-and-benefit-sharing" showAs="access and benefit sharing" href="http://www.informea.org/terms/access-and-benefit-sharing"/>
+				<TLCTerm eId="term-access-to-genetic-resources" showAs="access to genetic resources" href="http://www.informea.org/terms/access-genetic-resources"/>
+				<TLCTerm eId="term-access-to-information" showAs="access to information" href="http://www.informea.org/terms/access-to-information"/>
+				<TLCTerm eId="term-accession" showAs="accession" href="http://www.informea.org/terms/accession"/>
+				<TLCTerm eId="term-advisory-body" showAs="advisory body" href="http://www.informea.org/terms/advisory-body"/>
+				<TLCTerm eId="term-agrobiodiversity" showAs="agrobiodiversity" href="http://www.informea.org/terms/agrobiodiversity"/>
+				<TLCTerm eId="term-alien-species" showAs="alien species" href="http://www.informea.org/terms/alien-species"/>
+				<TLCTerm eId="term-amendment" showAs="amendment" href="http://www.informea.org/terms/amendment"/>
+				<TLCTerm eId="term-amendment-procedures" showAs="amendment procedures" href="http://www.informea.org/terms/amendment-procedures"/>
+				<TLCTerm eId="term-annex" showAs="annex" href="http://www.informea.org/terms/annex"/>
+				<TLCTerm eId="term-approval" showAs="approval" href="http://www.informea.org/terms/approval"/>
+				<TLCTerm eId="term-benefit-sharing" showAs="benefit sharing" href="http://www.informea.org/terms/benefit-sharing"/>
+				<TLCTerm eId="term-biotechnology" showAs="biotechnology" href="http://www.informea.org/terms/biotechnology"/>
+				<TLCTerm eId="term-budget" showAs="budget" href="http://www.informea.org/terms/budget"/>
+				<TLCTerm eId="term-capacity-building" showAs="capacity building" href="http://www.informea.org/terms/capacity-building"/>
+				<TLCTerm eId="term-clearing-house-mechanism" showAs="clearing-house mechanism" href="http://www.informea.org/terms/clearing-house-mechanism"/>
+				<TLCTerm eId="term-common-but-differentiated-responsibilities" showAs="common but differentiated responsibilities" href="http://www.informea.org/terms/common-but-differentiated-responsibilities"/>
+				<TLCTerm eId="term-compensation" showAs="compensation" href="http://www.informea.org/terms/compensation"/>
+				<TLCTerm eId="term-conference-of-the-parties" showAs="Conference of the Parties" href="http://www.informea.org/terms/conference-of-the-parties"/>
+				<TLCTerm eId="term-conservation" showAs="conservation" href="http://www.informea.org/terms/conservation"/>
+				<TLCTerm eId="term-de-listing" showAs="de-listing" href="http://www.informea.org/terms/de-listing"/>
+				<TLCTerm eId="term-depository" showAs="depository" href="http://www.informea.org/terms/depository"/>
+				<TLCTerm eId="term-developed-country" showAs="developed country" href="http://www.informea.org/terms/developed-country"/>
+				<TLCTerm eId="term-developing-country" showAs="developing country" href="http://www.informea.org/terms/developing-country"/>
+				<TLCTerm eId="term-disaster" showAs="disaster" href="http://www.informea.org/terms/disaster"/>
+				<TLCTerm eId="term-dispute-settlement" showAs="dispute settlement" href="http://www.informea.org/terms/dispute-settlement"/>
+				<TLCTerm eId="term-economic-instrument" showAs="economic instrument" href="http://www.informea.org/terms/economic-instrument"/>
+				<TLCTerm eId="term-economy-in-transition" showAs="economy in transition" href="http://www.informea.org/terms/economy-in-transition"/>
+				<TLCTerm eId="term-ecosystem" showAs="ecosystem" href="http://www.informea.org/terms/ecosystem"/>
+				<TLCTerm eId="term-endangered-species" showAs="endangered species" href="http://www.informea.org/terms/endangered-species"/>
+				<TLCTerm eId="term-enforcement" showAs="enforcement" href="http://www.informea.org/terms/enforcement"/>
+				<TLCTerm eId="term-entry-into-force" showAs="entry into force" href="http://www.informea.org/terms/entry-into-force"/>
+				<TLCTerm eId="term-environmental-damage" showAs="environmental damage" href="http://www.informea.org/terms/environmental-damage"/>
+				<TLCTerm eId="term-environmental-impact-assessment" showAs="environmental impact assessment" href="http://www.informea.org/terms/environmental-impact-assessment"/>
+				<TLCTerm eId="term-evaluation" showAs="evaluation" href="http://www.informea.org/terms/evaluation"/>
+				<TLCTerm eId="term-ex-situ-conservation" showAs="ex-situ conservation" href="http://www.informea.org/terms/ex-situ-conservation"/>
+				<TLCTerm eId="term-extraordinary-conference-of-the-parties" showAs="extraordinary Conference of the Parties" href="http://www.informea.org/terms/extraordinary-conference-of-the-parties"/>
+				<TLCTerm eId="term-financial-mechanism" showAs="financial mechanism" href="http://www.informea.org/terms/financial-mechanism"/>
+				<TLCTerm eId="term-gender" showAs="gender" href="http://www.informea.org/terms/gender"/>
+				<TLCTerm eId="term-genetic-resource" showAs="genetic resource" href="http://www.informea.org/terms/genetic-resource"/>
+				<TLCTerm eId="term-genetic-resource-for-food-and-agriculture" showAs="genetic resource for food and agriculture" href="http://www.informea.org/terms/genetic-resource-for-food-and-agriculture"/>
+				<TLCTerm eId="term-illegal-trade" showAs="illegal trade" href="http://www.informea.org/terms/illegal-trade"/>
+				<TLCTerm eId="term-implementation" showAs="implementation" href="http://www.informea.org/terms/implementation"/>
+				<TLCTerm eId="term-in-situ-conservation" showAs="in-situ conservation" href="http://www.informea.org/terms/in-situ-conservation"/>
+				<TLCTerm eId="term-indigenous-knowledge" showAs="indigenous knowledge" href="http://www.informea.org/terms/indigenous-knowledge"/>
+				<TLCTerm eId="term-indigenous-people" showAs="indigenous people" href="http://www.informea.org/terms/indigenous-people"/>
+				<TLCTerm eId="term-intellectual-property-right" showAs="intellectual property right" href="http://www.informea.org/terms/intellectual-property-right"/>
+				<TLCTerm eId="term-intergenerational-equity" showAs="intergenerational equity" href="http://www.informea.org/terms/intergenerational-equity"/>
+				<TLCTerm eId="term-international-agreement" showAs="international agreement" href="http://www.informea.org/terms/international-agreement"/>
+				<TLCTerm eId="term-international-cooperation" showAs="international cooperation" href="http://www.informea.org/terms/international-cooperation"/>
+				<TLCTerm eId="term-liability" showAs="liability" href="http://www.informea.org/terms/liability"/>
+				<TLCTerm eId="term-living-modified-organism" showAs="living modified organism" href="http://www.informea.org/terms/living-modified-organism"/>
+				<TLCTerm eId="term-monitoring" showAs="monitoring" href="http://www.informea.org/terms/monitoring"/>
+				<TLCTerm eId="term-mutually-agreed-term" showAs="mutually agreed term" href="http://www.informea.org/terms/mutually-agreed-term"/>
+				<TLCTerm eId="term-national-legislation" showAs="national legislation" href="http://www.informea.org/terms/national-legislation"/>
+				<TLCTerm eId="term-national-report" showAs="national report" href="http://www.informea.org/terms/national-report"/>
+				<TLCTerm eId="term-national-strategy" showAs="national strategy" href="http://www.informea.org/terms/national-strategy"/>
+				<TLCTerm eId="term-non-governmental-organization" showAs="non-governmental organization" href="http://www.informea.org/terms/non-governmental-organization"/>
+				<TLCTerm eId="term-non-party" showAs="non-party" href="http://www.informea.org/terms/non-party"/>
+				<TLCTerm eId="term-notification-obligation" showAs="notification obligation" href="http://www.informea.org/terms/notification-obligation"/>
+				<TLCTerm eId="term-observer" showAs="observer" href="http://www.informea.org/terms/observer"/>
+				<TLCTerm eId="term-plant-genetic-resource" showAs="plant genetic resource" href="http://www.informea.org/terms/plant-genetic-resource"/>
+				<TLCTerm eId="term-poverty" showAs="poverty" href="http://www.informea.org/terms/poverty"/>
+				<TLCTerm eId="term-precautionary-principle" showAs="precautionary principle" href="http://www.informea.org/terms/precautionary-principle"/>
+				<TLCTerm eId="term-prevention" showAs="prevention" href="http://www.informea.org/terms/prevention"/>
+				<TLCTerm eId="term-prior-informed-consent" showAs="prior informed consent" href="http://www.informea.org/terms/prior-informed-consent"/>
+				<TLCTerm eId="term-private-sector" showAs="private sector" href="http://www.informea.org/terms/private-sector"/>
+				<TLCTerm eId="term-protected-area" showAs="protected area" href="http://www.informea.org/terms/protected-area"/>
+				<TLCTerm eId="term-protocol" showAs="protocol" href="http://www.informea.org/terms/protocol"/>
+				<TLCTerm eId="term-public-participation" showAs="public participation" href="http://www.informea.org/terms/public-participation"/>
+				<TLCTerm eId="term-ratification" showAs="ratification" href="http://www.informea.org/terms/ratification"/>
+				<TLCTerm eId="term-research" showAs="research" href="http://www.informea.org/terms/research"/>
+				<TLCTerm eId="term-risk-assessment" showAs="risk assessment" href="http://www.informea.org/terms/risk-assessment"/>
+				<TLCTerm eId="term-rules-of-procedure" showAs="Rules of Procedure" href="http://www.informea.org/terms/rules-of-procedure"/>
+				<TLCTerm eId="term-secretariat" showAs="secretariat" href="http://www.informea.org/terms/secretariat"/>
+				<TLCTerm eId="term-signature" showAs="signature" href="http://www.informea.org/terms/signature"/>
+				<TLCTerm eId="term-sovereignty" showAs="sovereignty" href="http://www.informea.org/terms/sovereignty"/>
+				<TLCTerm eId="term-species" showAs="species" href="http://www.informea.org/terms/species"/>
+				<TLCTerm eId="term-subsidiary-body" showAs="subsidiary body" href="http://www.informea.org/terms/subsidiary-body"/>
+				<TLCTerm eId="term-sustainable-development" showAs="sustainable development" href="http://www.informea.org/terms/sustainable-development"/>
+				<TLCTerm eId="term-sustainable-use" showAs="sustainable use" href="http://www.informea.org/terms/sustainable-use"/>
+				<TLCTerm eId="term-synergy" showAs="synergy" href="http://www.informea.org/terms/synergy"/>
+				<TLCTerm eId="term-technology" showAs="technology" href="http://www.informea.org/terms/technology"/>
+				<TLCTerm eId="term-technology-transfer" showAs="technology transfer" href="http://www.informea.org/terms/technology-transfer"/>
+				<TLCTerm eId="term-trade" showAs="trade" href="http://www.informea.org/terms/trade"/>
+				<TLCTerm eId="term-vulnerability" showAs="vulnerability" href="http://www.informea.org/terms/vulnerability"/>
+				<TLCTerm eId="term-withdrawal" showAs="withdrawal" href="http://www.informea.org/terms/withdrawal"/>
+			</references>
+		</meta>
+		<preface>
+			<p class="center">
+				<docTitle>Convention on Biological Diversity</docTitle>
+			</p>
+		</preface>
+		<preamble>
+			<p class="center italic">Preamble</p>
+			<p class="italic">The Contracting Parties,</p>
+			<p eId="preamble__p_1"><i>Conscious</i> of the intrinsic value of biological diversity and of the ecological, genetic, social, economic, scientific, educational, cultural, recreational and aesthetic values of biological diversity and its components,</p>
+			<p eId="preamble__p_2"><i>Conscious also</i> of the importance of biological diversity for evolution and for maintaining life sustaining systems of the biosphere,</p>
+			<p eId="preamble__p_3"><i>Affirming</i> that the conservation of biological diversity is a common concern of humankind,</p>
+			<p eId="preamble__p_4"><i>Reaffirming</i> that States have sovereign rights over their own biological resources,</p>
+			<p eId="preamble__p_5"><i>Reaffirming also</i> that States are responsible for conserving their biological diversity and for using their biological resources in a sustainable manner,</p>
+			<p eId="preamble__p_6"><i>Concerned</i> that biological diversity is being significantly reduced by certain human activities,</p>
+			<p eId="preamble__p_7"><i>Aware</i> of the general lack of information and knowledge regarding biological diversity and of the urgent need to develop scientific, technical and institutional capacities to provide the basic understanding upon which to plan and implement appropriate measures,</p>
+			<p eId="preamble__p_8"><i>Noting</i> that it is vital to anticipate, prevent and attack the causes of significant reduction or loss of biological diversity at source,</p>
+			<p eId="preamble__p_9"><i>Noting also</i> that where there is a threat of significant reduction or loss of biological diversity, lack of full scientific certainty should not be used as a reason for postponing measures to avoid or minimize such a threat,</p>
+			<p eId="preamble__p_10"><i>Noting further</i> that the fundamental requirement for the conservation of biological diversity is the <i>in-situ</i> conservation of ecosystems and natural habitats and the maintenance and recovery of viable populations of species in their natural surroundings,</p>
+			<p eId="preamble__p_11"><i>Noting further</i> that <i>ex-situ</i> measures, preferably in the country of origin, also have an important role to play,</p>
+			<p eId="preamble__p_12"><i>Recognizing</i> the close and traditional dependence of many indigenous and local communities embodying traditional lifestyles on biological resources, and the desirability of sharing equitably benefits arising from the use of traditional knowledge, innovations and practices relevant to the conservation of biological diversity and the sustainable use of its components,</p>
+			<p eId="preamble__p_13"><i>Recognizing also</i> the vital role that women play in the conservation and sustainable use of biological diversity and affirming the need for the full participation of women at all levels of policy-making and implementation for biological diversity conservation,</p>
+			<p eId="preamble__p_14"><i>Stressing</i> the importance of, and the need to promote, international, regional and global cooperation among States and intergovernmental organizations and the non-governmental sector for the conservation of biological diversity and the sustainable use of its components,</p>
+			<p eId="preamble__p_15"><i>Acknowledging that the provision of new and additional financial resources and appropriate access to relevant technologies can be expect</i>ed to make a substantial difference in the world's ability to address the loss of biological diversity,</p>
+			<p eId="preamble__p_16"><i>Acknowledging further</i> that special provision is required to meet the needs of developing countries, including the provision of new and additional financial resources and appropriate access to relevant technologies,</p>
+			<p eId="preamble__p_17"><i>Noting</i> in this regard the special conditions of the least developed countries and small island States,</p>
+			<p eId="preamble__p_18"><i>Acknowledging</i> that substantial investments are required to conserve biological diversity and that there is the expectation of a broad range of environmental, economic and social benefits from those investments,</p>
+			<p eId="preamble__p_19"><i>Recognizing</i> that economic and social development and poverty eradication are the first and overriding priorities of developing countries,</p>
+			<p eId="preamble__p_20"><i>Aware</i> that conservation and sustainable use of biological diversity is of critical importance for meeting the food, health and other needs of the growing world population, for which purpose access to and sharing of both genetic resources and technologies are essential,</p>
+			<p eId="preamble__p_21"><i>Noting</i> that, ultimately, the conservation and sustainable use of biological diversity will strengthen friendly relations among States and contribute to peace for humankind,</p>
+			<p eId="preamble__p_22"><i>Desiring</i> to enhance and complement existing international arrangements for the conservation of biological diversity and sustainable use of its components, and</p>
+			<p eId="preamble__p_23"><i>Determined</i> to conserve and sustainably use biological diversity for the benefit of present and future generations,</p>
+			<p>Have agreed as follows:</p>
+		</preamble>
+		<mainBody>
+			<article eId="art_1">
+				<num>Article 1.</num>
+				<heading>Objectives</heading>
+				<content>
+					<p>The objectives of this Convention, to be pursued in accordance with its relevant provisions, are the conservation of biological diversity, the sustainable use of its components and the fair and equitable sharing of the benefits arising out of the utilization of genetic resources, including by appropriate access to genetic resources and by appropriate transfer of relevant technologies, taking into account all rights over those resources and to technologies, and by appropriate funding.</p>
+				</content>
+			</article>
+			<article eId="art_2">
+				<num>Article 2.</num>
+				<heading>Use of Terms</heading>
+				<content>
+					<blockList>
+						<listIntroduction>For the purposes of this Convention:</listIntroduction>
+						<item eId="art_2__item_1">
+							<p><def><term refersTo="">"Biological diversity"</term> means the variability among living organisms from all sources including, <i>inter alia,</i> terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems.</def></p>
+						</item>
+						<item eId="art_2__item_2">
+							<p><def><term refersTo="">"Biological resources"</term> includes genetic resources, organisms or parts thereof, populations, or any other biotic component of ecosystems with actual or potential use or value for humanity.</def></p>
+						</item>
+						<item eId="art_2__item_3">
+							<p><def><term refersTo="">"Biotechnology"</term> means any technological application that uses biological systems, living organisms, or derivatives thereof, to make or modify products or processes for specific use.</def></p>
+						</item>
+						<item eId="art_2__item_4">
+							<p><def><term refersTo="">"Country of origin of genetic resources"</term> means the country which possesses those genetic resources in <i>in-situ</i> conditions.</def></p>
+						</item>
+						<item eId="art_2__item_5">
+							<p><def><term refersTo="">"Country providing genetic resources"</term> means the country supplying genetic resources collected from <i>in-situ</i> sources, including populations of both wild and domesticated species, or taken from <i>ex-situ</i> sources, which may or may not have originated in that country.</def></p>
+						</item>
+						<item eId="art_2__item_6">
+							<p><def><term refersTo="">"Domesticated or cultivated species"</term> means species in which the evolutionary process has been influenced by humans to meet their needs.</def></p>
+						</item>
+						<item eId="art_2__item_7">
+							<p><def><term refersTo="">"Ecosystem"</term> means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit.</def></p>
+						</item>
+						<item eId="art_2__item_8">
+							<p><def><term refersTo="">"Ex-situ conservation"</term> means the conservation of components of biological diversity outside their natural habitats.</def></p>
+						</item>
+						<item eId="art_2__item_9">
+							<p><def><term refersTo="">"Genetic material"</term> means any material of plant, animal, microbial or other origin containing functional units of heredity.</def></p>
+						</item>
+						<item eId="art_2__item_10">
+							<p><def><term refersTo="">"Genetic resources"</term> means genetic material of actual or potential value.</def></p>
+						</item>
+						<item eId="art_2__item_11">
+							<p><def><term refersTo="">"Habitat"</term> means the place or type of site where an organism or population naturally occurs.</def></p>
+						</item>
+						<item eId="art_2__item_12">
+							<p><def><term refersTo="">"In-situ conditions"</term> means conditions where genetic resources exist within ecosystems and natural habitats, and, in the case of domesticated or cultivated species, in the surroundings where they have developed their distinctive properties.</def></p>
+						</item>
+						<item eId="art_2__item_13">
+							<p><def><term refersTo="">"In-situ conservation"</term> means the conservation of ecosystems and natural habitats and the maintenance and recovery of viable populations of species in their natural surroundings and, in the case of domesticated or cultivated species, in the surroundings where they have developed their distinctive properties.</def></p>
+						</item>
+						<item eId="art_2__item_14">
+							<p><def><term refersTo="">"Protected area"</term> means a geographically defined area which is designated or regulated and managed to achieve specific conservation objectives.</def></p>
+						</item>
+						<item eId="art_2__item_15">
+							<p><def><term refersTo="">"Regional economic integration organization"</term> means an organization constituted by sovereign States of a given region, to which its member States have transferred competence in respect of matters governed by this Convention and which has been duly authorized, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to it.</def></p>
+						</item>
+						<item eId="art_2__item_16">
+							<p><def><term refersTo="">"Sustainable use"</term> means the use of components of biological diversity in a way and at a rate that does not lead to the long-term decline of biological diversity, thereby maintaining its potential to meet the needs and aspirations of present and future generations.</def></p>
+						</item>
+						<item eId="art_2__item_17">
+							<p><def><term refersTo="">"Technology"</term> includes biotechnology.</def></p>
+						</item>
+					</blockList>
+				</content>
+			</article>
+			<article eId="art_3">
+				<num>Article 3.</num>
+				<heading>Principle</heading>
+				<content>
+					<p>States have, in accordance with the Charter of the United Nations and the principles of international law, the sovereign right to exploit their own resources pursuant to their own environmental policies, and the responsibility to ensure that activities within their jurisdiction or control do not cause damage to the environment of other States or of areas beyond the limits of national jurisdiction.</p>
+				</content>
+			</article>
+			<article eId="art_4">
+				<num>Article 4.</num>
+				<heading>Jurisdictional Scope</heading>
+				<intro>
+					<p>Subject to the rights of other States, and except as otherwise expressly provided in this Convention, the provisions of this Convention apply, in relation to each Contracting Party:</p>
+				</intro>
+				<subparagraph eId="art_4__subpara_a">
+					<num>(a)</num>
+					<content>
+						<p>In the case of components of biological diversity, in areas within the limits of its national jurisdiction; and</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_4__subpara_b">
+					<num>(b)</num>
+					<content>
+						<p>In the case of processes and activities, regardless of where their effects occur, carried out under its jurisdiction or control, within the area of its national jurisdiction or beyond the limits of national jurisdiction.</p>
+					</content>
+				</subparagraph>
+			</article>
+			<article eId="art_5">
+				<num>Article 5.</num>
+				<heading>Cooperation</heading>
+				<content>
+					<p>Each Contracting Party shall, as far as possible and as appropriate, cooperate with other Contracting Parties, directly or, where appropriate, through competent international organizations, in respect of areas beyond national jurisdiction and on other matters of mutual interest, for the conservation and sustainable use of biological diversity.</p>
+				</content>
+			</article>
+			<article eId="art_6">
+				<num>Article 6.</num>
+				<heading>General Measures for Conservation and Sustainable Use</heading>
+				<intro>
+					<p>Each Contracting Party shall, in accordance with its particular conditions and capabilities:</p>
+				</intro>
+				<subparagraph eId="art_6__subpara_a">
+					<num>(a)</num>
+					<content>
+						<p>Develop national strategies, plans or programmes for the conservation and sustainable use of biological diversity or adapt for this purpose existing strategies, plans or programmes which shall reflect, <i>inter alia,</i> the measures set out in this Convention relevant to the Contracting Party concerned; and</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_6__subpara_b">
+					<num>(b)</num>
+					<content>
+						<p>Integrate, as far as possible and as appropriate, the conservation and sustainable use of biological diversity into relevant sectoral or cross-sectoral plans, programmes and policies.</p>
+					</content>
+				</subparagraph>
+			</article>
+			<article eId="art_7">
+				<num>Article 7.</num>
+				<heading>Identification and Monitoring</heading>
+				<intro>
+					<p>Each Contracting Party shall, as far as possible and as appropriate, in particular for the purposes of <mref>Articles <ref href="#art_8">8</ref> to <ref href="#art_10">10:</ref></mref></p>
+				</intro>
+				<subparagraph eId="art_7__subpara_a">
+					<num>(a)</num>
+					<content>
+						<p>Identify components of biological diversity important for its conservation and sustainable use having regard to the indicative list of categories set down in <ref href="#annex-i">Annex I;</ref></p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_7__subpara_b">
+					<num>(b)</num>
+					<content>
+						<p>Monitor, through sampling and other techniques, the components of biological diversity identified pursuant to <ref href="#art_7__subpara_a">subparagraph (a)</ref> above, paying particular attention to those requiring urgent conservation measures and those which offer the greatest potential for sustainable use;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_7__subpara_c">
+					<num>(c)</num>
+					<content>
+						<p>Identify processes and categories of activities which have or are likely to have significant adverse impacts on the conservation and sustainable use of biological diversity, and monitor their effects through sampling and other techniques; and</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_7__subpara_d">
+					<num>(d)</num>
+					<content>
+						<p>Maintain and organize, by any mechanism data, derived from identification and monitoring activities pursuant to subparagraphs <ref href="#art_7__subpara_a">(a),</ref> <ref href="#art_7__subpara_b">(b)</ref> and <ref href="#art_7__subpara_c">(c)</ref> above.</p>
+					</content>
+				</subparagraph>
+			</article>
+			<article eId="art_8">
+				<num>Article 8.</num>
+				<heading>In-situ Conservation</heading>
+				<intro>
+					<p>Each Contracting Party shall, as far as possible and as appropriate:</p>
+				</intro>
+				<subparagraph eId="art_8__subpara_a">
+					<num>(a)</num>
+					<content>
+						<p>Establish a system of protected areas or areas where special measures need to be taken to conserve biological diversity;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_b">
+					<num>(b)</num>
+					<content>
+						<p>Develop, where necessary, guidelines for the selection, establishment and management of protected areas or areas where special measures need to be taken to conserve biological diversity;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_c">
+					<num>(c)</num>
+					<content>
+						<p>Regulate or manage biological resources important for the conservation of biological diversity whether within or outside protected areas, with a view to ensuring their conservation and sustainable use;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_d">
+					<num>(d)</num>
+					<content>
+						<p>Promote the protection of ecosystems, natural habitats and the maintenance of viable populations of species in natural surroundings;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_e">
+					<num>(e)</num>
+					<content>
+						<p>Promote environmentally sound and sustainable development in areas adjacent to protected areas with a view to furthering protection of these areas;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_f">
+					<num>(f)</num>
+					<content>
+						<p>Rehabilitate and restore degraded ecosystems and promote the recovery of threatened species, <i>inter alia,</i> through the development and implementation of plans or other management strategies;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_g">
+					<num>(g)</num>
+					<content>
+						<p>Establish or maintain means to regulate, manage or control the risks associated with the use and release of living modified organisms resulting from biotechnology which are likely to have adverse environmental impacts that could affect the conservation and sustainable use of biological diversity, taking also into account the risks to human health;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_h">
+					<num>(h)</num>
+					<content>
+						<p>Prevent the introduction of, control or eradicate those alien species which threaten ecosystems, habitats or species;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_i">
+					<num>(i)</num>
+					<content>
+						<p>Endeavour to provide the conditions needed for compatibility between present uses and the conservation of biological diversity and the sustainable use of its components;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_j">
+					<num>(j)</num>
+					<content>
+						<p>Subject to its national legislation, respect, preserve and maintain knowledge, innovations and practices of indigenous and local communities embodying traditional lifestyles relevant for the conservation and sustainable use of biological diversity and promote their wider application with the approval and involvement of the holders of such knowledge, innovations and practices and encourage the equitable sharing of the benefits arising from the utilization of such knowledge, innovations and practices;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_k">
+					<num>(k)</num>
+					<content>
+						<p>Develop or maintain necessary legislation and/or other regulatory provisions for the protection of threatened species and populations;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_l">
+					<num>(l)</num>
+					<content>
+						<p>Where a significant adverse effect on biological diversity has been determined pursuant to <ref href="#art_7">Article 7,</ref> regulate or manage the relevant processes and categories of activities; and</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_8__subpara_m">
+					<num>(m)</num>
+					<content>
+						<p>Cooperate in providing financial and other support for <i>in-situ</i> conservation outlined in <mref>subparagraphs <ref href="#art_8__subpara_a">(a)</ref> to <ref href="#art_8__subpara_l">(l)</ref></mref> above, particularly to developing countries.</p>
+					</content>
+				</subparagraph>
+			</article>
+			<article eId="art_9">
+				<num>Article 9.</num>
+				<heading>Ex-situ Conservation</heading>
+				<intro>
+					<p>Each Contracting Party shall, as far as possible and as appropriate, and predominantly for the purpose of complementing <i>in-situ</i> measures:</p>
+				</intro>
+				<subparagraph eId="art_9__subpara_a">
+					<num>(a)</num>
+					<content>
+						<p>Adopt measures for the <i>ex-situ</i> conservation of components of biological diversity, preferably in the country of origin of such components;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_9__subpara_b">
+					<num>(b)</num>
+					<content>
+						<p>Establish and maintain facilities for <i>ex-situ</i> conservation of and research on plants, animals and micro-organisms, preferably in the country of origin of genetic resources;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_9__subpara_c">
+					<num>(c)</num>
+					<content>
+						<p>Adopt measures for the recovery and rehabilitation of threatened species and for their reintroduction into their natural habitats under appropriate conditions;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_9__subpara_d">
+					<num>(d)</num>
+					<content>
+						<p>Regulate and manage collection of biological resources from natural habitats for <i>ex-situ</i> conservation purposes so as not to threaten ecosystems and <i>in-situ</i> populations of species, except where special temporary <i>ex-situ</i> measures are required under <ref href="#art_9__subpara_c">subparagraph (c)</ref> above; and</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_9__subpara_e">
+					<num>(e)</num>
+					<content>
+						<p>Cooperate in providing financial and other support for <i>ex-situ</i> conservation outlined in <mref>subparagraphs <ref href="#art_9__subpara_a">(a)</ref> to <ref href="#art_9__subpara_d">(d)</ref></mref> above and in the establishment and maintenance of <i>ex-situ</i> conservation facilities in developing countries.</p>
+					</content>
+				</subparagraph>
+			</article>
+			<article eId="art_10">
+				<num>Article 10.</num>
+				<heading>Sustainable Use of Components of Biological Diversity</heading>
+				<intro>
+					<p>Each Contracting Party shall, as far as possible and as appropriate:</p>
+				</intro>
+				<subparagraph eId="art_10__subpara_a">
+					<num>(a)</num>
+					<content>
+						<p>Integrate consideration of the conservation and sustainable use of biological resources into national decision-making;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_10__subpara_b">
+					<num>(b)</num>
+					<content>
+						<p>Adopt measures relating to the use of biological resources to avoid or minimize adverse impacts on biological diversity;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_10__subpara_c">
+					<num>(c)</num>
+					<content>
+						<p>Protect and encourage customary use of biological resources in accordance with traditional cultural practices that are compatible with conservation or sustainable use requirements;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_10__subpara_d">
+					<num>(d)</num>
+					<content>
+						<p>Support local populations to develop and implement remedial action in degraded areas where biological diversity has been reduced; and</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_10__subpara_e">
+					<num>(e)</num>
+					<content>
+						<p>Encourage cooperation between its governmental authorities and its private sector in developing methods for sustainable use of biological resources.</p>
+					</content>
+				</subparagraph>
+			</article>
+			<article eId="art_11">
+				<num>Article 11.</num>
+				<heading>Incentive Measures</heading>
+				<content>
+					<p>Each Contracting Party shall, as far as possible and as appropriate, adopt economically and socially sound measures that act as incentives for the conservation and sustainable use of components of biological diversity.</p>
+				</content>
+			</article>
+			<article eId="art_12">
+				<num>Article 12.</num>
+				<heading>Research and Training</heading>
+				<intro>
+					<p>The Contracting Parties, taking into account the special needs of developing countries, shall:</p>
+				</intro>
+				<subparagraph eId="art_12__subpara_a">
+					<num>(a)</num>
+					<content>
+						<p>Establish and maintain programmes for scientific and technical education and training in measures for the identification, conservation and sustainable use of biological diversity and its components and provide support for such education and training for the specific needs of developing countries;</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_12__subpara_b">
+					<num>(b)</num>
+					<content>
+						<p>Promote and encourage research which contributes to the conservation and sustainable use of biological diversity, particularly in developing countries, <i>inter alia,</i> in accordance with decisions of the Conference of the Parties taken in consequence of recommendations of the Subsidiary Body on Scientific, Technical and Technological Advice; and</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_12__subpara_c">
+					<num>(c)</num>
+					<content>
+						<p>In keeping with the provisions of <mref>Articles <ref href="#art_16">16,</ref> <ref href="#art_18">18</ref> and <ref href="#art_20">20,</ref></mref> promote and cooperate in the use of scientific advances in biological diversity research in developing methods for conservation and sustainable use of biological resources.</p>
+					</content>
+				</subparagraph>
+			</article>
+			<article eId="art_13">
+				<num>Article 13.</num>
+				<heading>Public Education and Awareness</heading>
+				<intro>
+					<p>The Contracting Parties shall:</p>
+				</intro>
+				<subparagraph eId="art_13__subpara_a">
+					<num>(a)</num>
+					<content>
+						<p>Promote and encourage understanding of the importance of, and the measures required for, the conservation of biological diversity, as well as its propagation through media, and the inclusion of these topics in educational programmes; and</p>
+					</content>
+				</subparagraph>
+				<subparagraph eId="art_13__subpara_b">
+					<num>(b)</num>
+					<content>
+						<p>Cooperate, as appropriate, with other States and international organizations in developing educational and public awareness programmes, with respect to conservation and sustainable use of biological diversity.</p>
+					</content>
+				</subparagraph>
+			</article>
+			<article eId="art_14">
+				<num>Article 14.</num>
+				<heading>Impact Assessment and Minimizing Adverse Impacts</heading>
+				<paragraph eId="art_14__para_1">
+					<num>1.</num>
+					<intro>
+						<p>Each Contracting Party, as far as possible and as appropriate, shall:</p>
+					</intro>
+					<subparagraph eId="art_14__para_1__subpara_a">
+						<num>(a)</num>
+						<content>
+							<p>Introduce appropriate procedures requiring environmental impact assessment of its proposed projects that are likely to have significant adverse effects on biological diversity with a view to avoiding or minimizing such effects and, where appropriate, allow for public participation in such procedures;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_14__para_1__subpara_b">
+						<num>(b)</num>
+						<content>
+							<p>Introduce appropriate arrangements to ensure that the environmental consequences of its programmes and policies that are likely to have significant adverse impacts on biological diversity are duly taken into account;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_14__para_1__subpara_c">
+						<num>(c)</num>
+						<content>
+							<p>Promote, on the basis of reciprocity, notification, exchange of information and consultation on activities under their jurisdiction or control which are likely to significantly affect adversely the biological diversity of other States or areas beyond the limits of national jurisdiction, by encouraging the conclusion of bilateral, regional or multilateral arrangements, as appropriate;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_14__para_1__subpara_d">
+						<num>(d)</num>
+						<content>
+							<p>In the case of imminent or grave danger or damage, originating under its jurisdiction or control, to biological diversity within the area under jurisdiction of other States or in areas beyond the limits of national jurisdiction, notify immediately the potentially affected States of such danger or damage, as well as initiate action to prevent or minimize such danger or damage; and</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_14__para_1__subpara_e">
+						<num>(e)</num>
+						<content>
+							<p>Promote national arrangements for emergency responses to activities or events, whether caused naturally or otherwise, which present a grave and imminent danger to biological diversity and encourage international cooperation to supplement such national efforts and, where appropriate and agreed by the States or regional economic integration organizations concerned, to establish joint contingency plans.</p>
+						</content>
+					</subparagraph>
+				</paragraph>
+				<paragraph eId="art_14__para_2">
+					<num>2.</num>
+					<content>
+						<p>The Conference of the Parties shall examine, on the basis of studies to be carried out, the issue of liability and redress, including restoration and compensation, for damage to biological diversity, except where such liability is a purely internal matter.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_15">
+				<num>Article 15.</num>
+				<heading>Access to Genetic Resources</heading>
+				<paragraph eId="art_15__para_1">
+					<num>1.</num>
+					<content>
+						<p>Recognizing the sovereign rights of States over their natural resources, the authority to determine access to genetic resources rests with the national governments and is subject to national legislation.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_15__para_2">
+					<num>2.</num>
+					<content>
+						<p>Each Contracting Party shall endeavour to create conditions to facilitate access to genetic resources for environmentally sound uses by other Contracting Parties and not to impose restrictions that run counter to the objectives of this Convention.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_15__para_3">
+					<num>3.</num>
+					<content>
+						<p>For the purpose of this Convention, the genetic resources being provided by a Contracting Party, as referred to in this Article and <mref>Articles <ref href="#art_16">16</ref> and <ref href="#art_19">19,</ref></mref> are only those that are provided by Contracting Parties that are countries of origin of such resources or by the Parties that have acquired the genetic resources in accordance with this Convention.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_15__para_4">
+					<num>4.</num>
+					<content>
+						<p>Access, where granted, shall be on mutually agreed terms and subject to the provisions of this Article.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_15__para_5">
+					<num>5.</num>
+					<content>
+						<p>Access to genetic resources shall be subject to prior informed consent of the Contracting Party providing such resources, unless otherwise determined by that Party.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_15__para_6">
+					<num>6.</num>
+					<content>
+						<p>Each Contracting Party shall endeavour to develop and carry out scientific research based on genetic resources provided by other Contracting Parties with the full participation of, and where possible in, such Contracting Parties.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_15__para_7">
+					<num>7.</num>
+					<content>
+						<p>Each Contracting Party shall take legislative, administrative or policy measures, as appropriate, and in accordance with <mref>Articles <ref href="#art_16">16</ref> and <ref href="#art_19">19</ref></mref> and, where necessary, through the financial mechanism established by <mref>Articles <ref href="#art_20">20</ref> and <ref href="#art_21">21</ref></mref> with the aim of sharing in a fair and equitable way the results of research and development and the benefits arising from the commercial and other utilization of genetic resources with the Contracting Party providing such resources. Such sharing shall be upon mutually agreed terms.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_16">
+				<num>Article 16.</num>
+				<heading>Access to and Transfer of technology</heading>
+				<paragraph eId="art_16__para_1">
+					<num>1.</num>
+					<content>
+						<p>Each Contracting Party, recognizing that technology includes biotechnology, and that both access to and transfer of technology among Contracting Parties are essential elements for the attainment of the objectives of this Convention, undertakes subject to the provisions of this Article to provide and/or facilitate access for and transfer to other Contracting Parties of technologies that are relevant to the conservation and sustainable use of biological diversity or make use of genetic resources and do not cause significant damage to the environment.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_16__para_2">
+					<num>2.</num>
+					<content>
+						<p>Access to and transfer of technology referred to in <ref href="#art_16__para_1">paragraph 1</ref> above to developing countries shall be provided and/or facilitated under fair and most favourable terms, including on concessional and preferential terms where mutually agreed, and, where necessary, in accordance with the financial mechanism established by <mref>Articles <ref href="#art_20">20</ref> and <ref href="#art_21">21.</ref></mref> In the case of technology subject to patents and other intellectual property rights, such access and transfer shall be provided on terms which recognize and are consistent with the adequate and effective protection of intellectual property rights. The application of this paragraph shall be consistent with <mref>paragraphs <ref href="#art_16__para_3">3,</ref> <ref href="#art_16__para_4">4</ref> and <ref href="#art_16__para_5">5</ref></mref> below.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_16__para_3">
+					<num>3.</num>
+					<content>
+						<p>Each Contracting Party shall take legislative, administrative or policy measures, as appropriate, with the aim that Contracting Parties, in particular those that are developing countries, which provide genetic resources are provided access to and transfer of technology which makes use of those resources, on mutually agreed terms, including technology protected by patents and other intellectual property rights, where necessary, through the provisions of <mref>Articles <ref href="#art_20">20</ref> and <ref href="#art_21">21</ref></mref> and in accordance with international law and consistent with <mref>paragraphs <ref href="#art_16__para_4">4</ref> and <ref href="#art_16__para_5">5</ref></mref> below.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_16__para_4">
+					<num>4.</num>
+					<content>
+						<p>Each Contracting Party shall take legislative, administrative or policy measures, as appropriate, with the aim that the private sector facilitates access to, joint development and transfer of technology referred to in <ref href="#art_16__para_1">paragraph 1</ref> above for the benefit of both governmental institutions and the private sector of developing countries and in this regard shall abide by the obligations included in <mref>paragraphs <ref href="#art_16__para_1">1,</ref> <ref href="#art_16__para_2">2</ref> and <ref href="#art_16__para_3">3</ref></mref> above.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_16__para_5">
+					<num>5.</num>
+					<content>
+						<p>The Contracting Parties, recognizing that patents and other intellectual property rights may have an influence on the implementation of this Convention, shall cooperate in this regard subject to national legislation and international law in order to ensure that such rights are supportive of and do not run counter to its objectives.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_17">
+				<num>Article 17.</num>
+				<heading>Exchange of Information</heading>
+				<paragraph eId="art_17__para_1">
+					<num>1.</num>
+					<content>
+						<p>The Contracting Parties shall facilitate the exchange of information, from all publicly available sources, relevant to the conservation and sustainable use of biological diversity, taking into account the special needs of developing countries.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_17__para_2">
+					<num>2.</num>
+					<content>
+						<p>Such exchange of information shall include exchange of results of technical, scientific and socio-economic research, as well as information on training and surveying programmes, specialized knowledge, indigenous and traditional knowledge as such and in combination with the technologies referred to in <ref href="#art_16__para_1">Article 16, paragraph 1.</ref> It shall also, where feasible, include repatriation of information.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_18">
+				<num>Article 18.</num>
+				<heading>Technical and Scientific Cooperation</heading>
+				<paragraph eId="art_18__para_1">
+					<num>1.</num>
+					<content>
+						<p>The Contracting Parties shall promote international technical and scientific cooperation in the field of conservation and sustainable use of biological diversity, where necessary, through the appropriate international and national institutions.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_18__para_2">
+					<num>2.</num>
+					<content>
+						<p>Each Contracting Party shall promote technical and scientific cooperation with other Contracting Parties, in particular developing countries, in implementing this Convention, <i>inter alia,</i> through the development and implementation of national policies. In promoting such cooperation, special attention should be given to the development and strengthening of national capabilities, by means of human resources development and institution building.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_18__para_3">
+					<num>3.</num>
+					<content>
+						<p>The Conference of the Parties, at its first meeting, shall determine how to establish a clearing-house mechanism to promote and facilitate technical and scientific cooperation.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_18__para_4">
+					<num>4.</num>
+					<content>
+						<p>The Contracting Parties shall, in accordance with national legislation and policies, encourage and develop methods of cooperation for the development and use of technologies, including indigenous and traditional technologies, in pursuance of the objectives of this Convention. For this purpose, the Contracting Parties shall also promote cooperation in the training of personnel and exchange of experts.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_18__para_5">
+					<num>5.</num>
+					<content>
+						<p>The Contracting Parties shall, subject to mutual agreement, promote the establishment of joint research programmes and joint ventures for the development of technologies relevant to the objectives of this Convention.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_19">
+				<num>Article 19.</num>
+				<heading>Handling of Biotechnology and Distribution of its Benefits</heading>
+				<paragraph eId="art_19__para_1">
+					<num>1.</num>
+					<content>
+						<p>Each Contracting Party shall take legislative, administrative or policy measures, as appropriate, to provide for the effective participation in biotechnological research activities by those Contracting Parties, especially developing countries, which provide the genetic resources for such research, and where feasible in such Contracting Parties.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_19__para_2">
+					<num>2.</num>
+					<content>
+						<p>Each Contracting Party shall take all practicable measures to promote and advance priority access on a fair and equitable basis by Contracting Parties, especially developing countries, to the results and benefits arising from biotechnologies based upon genetic resources provided by those Contracting Parties. Such access shall be on mutually agreed terms.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_19__para_3">
+					<num>3.</num>
+					<content>
+						<p>The Parties shall consider the need for and modalities of a protocol setting out appropriate procedures, including, in particular, advance informed agreement, in the field of the safe transfer, handling and use of any living modified organism resulting from biotechnology that may have adverse effect on the conservation and sustainable use of biological diversity.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_19__para_4">
+					<num>4.</num>
+					<content>
+						<p>Each Contracting Party shall, directly or by requiring any natural or legal person under its jurisdiction providing the organisms referred to in <ref href="#art_19__para_3">paragraph 3</ref> above, provide any available information about the use and safety regulations required by that Contracting Party in handling such organisms, as well as any available information on the potential adverse impact of the specific organisms concerned to the Contracting Party into which those organisms are to be introduced.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_20">
+				<num>Article 20.</num>
+				<heading>Financial Resources</heading>
+				<paragraph eId="art_20__para_1">
+					<num>1.</num>
+					<content>
+						<p>Each Contracting Party undertakes to provide, in accordance with its capabilities, financial support and incentives in respect of those national activities which are intended to achieve the objectives of this Convention, in accordance with its national plans, priorities and programmes.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_20__para_2">
+					<num>2.</num>
+					<content>
+						<p>The developed country Parties shall provide new and additional financial resources to enable developing country Parties to meet the agreed full incremental costs to them of implementing measures which fulfill the obligations of this Convention and to benefit from its provisions and which costs are agreed between a developing country Party and the institutional structure referred to in <ref href="#art_21">Article 21,</ref> in accordance with policy, strategy, programme priorities and eligibility criteria and an indicative list of incremental costs established by the Conference of the Parties. Other Parties, including countries undergoing the process of transition to a market economy, may voluntarily assume the obligations of the developed country Parties. For the purpose of this Article, the Conference of the Parties, shall at its first meeting establish a list of developed country Parties and other Parties which voluntarily assume the obligations of the developed country Parties. The Conference of the Parties shall periodically review and if necessary amend the list. Contributions from other countries and sources on a voluntary basis would also be encouraged. The implementation of these commitments shall take into account the need for adequacy, predictability and timely flow of funds and the importance of burden-sharing among the contributing Parties included in the list.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_20__para_3">
+					<num>3.</num>
+					<content>
+						<p>The developed country Parties may also provide, and developing country Parties avail themselves of, financial resources related to the implementation of this Convention through bilateral, regional and other multilateral channels.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_20__para_4">
+					<num>4.</num>
+					<content>
+						<p>The extent to which developing country Parties will effectively implement their commitments under this Convention will depend on the effective implementation by developed country Parties of their commitments under this Convention related to financial resources and transfer of technology and will take fully into account the fact that economic and social development and eradication of poverty are the first and overriding priorities of the developing country Parties.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_20__para_5">
+					<num>5.</num>
+					<content>
+						<p>The Parties shall take full account of the specific needs and special situation of least developed countries in their actions with regard to funding and transfer of technology.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_20__para_6">
+					<num>6.</num>
+					<content>
+						<p>The Contracting Parties shall also take into consideration the special conditions resulting from the dependence on, distribution and location of, biological diversity within developing country Parties, in particular small island States.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_20__para_7">
+					<num>7.</num>
+					<content>
+						<p>Consideration shall also be given to the special situation of developing countries, including those that are most environmentally vulnerable, such as those with arid and semi-arid zones, coastal and mountainous areas.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_21">
+				<num>Article 21.</num>
+				<heading>Financial Mechanism</heading>
+				<paragraph eId="art_21__para_1">
+					<num>1.</num>
+					<content>
+						<p>There shall be a mechanism for the provision of financial resources to developing country Parties for purposes of this Convention on a grant or concessional basis the essential elements of which are described in this Article. The mechanism shall function under the authority and guidance of, and be accountable to, the Conference of the Parties for purposes of this Convention. The operations of the mechanism shall be carried out by such institutional structure as may be decided upon by the Conference of the Parties at its first meeting. For purposes of this Convention, the Conference of the Parties shall determine the policy, strategy, programme priorities and eligibility criteria relating to the access to and utilization of such resources. The contributions shall be such as to take into account the need for predictability, adequacy and timely flow of funds referred to in <ref href="#art_20">Article 20</ref> in accordance with the amount of resources needed to be decided periodically by the Conference of the Parties and the importance of burden-sharing among the contributing Parties included in the list referred to in <ref href="#art_20__para_2">Article 20, paragraph 2.</ref> Voluntary contributions may also be made by the developed country Parties and by other countries and sources. The mechanism shall operate within a democratic and transparent system of governance.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_21__para_2">
+					<num>2.</num>
+					<content>
+						<p>Pursuant to the objectives of this Convention, the Conference of the Parties shall at its first meeting determine the policy, strategy and programme priorities, as well as detailed criteria and guidelines for eligibility for access to and utilization of the financial resources including monitoring and evaluation on a regular basis of such utilization. The Conference of the Parties shall decide on the arrangements to give effect to <ref href="#art_21__para_1">paragraph 1</ref> above after consultation with the institutional structure entrusted with the operation of the financial mechanism.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_21__para_3">
+					<num>3.</num>
+					<content>
+						<p>The Conference of the Parties shall review the effectiveness of the mechanism established under this Article, including the criteria and guidelines referred to in <ref href="#art_21__para_2">paragraph 2</ref> above, not less than two years after the entry into force of this Convention and thereafter on a regular basis. Based on such review, it shall take appropriate action to improve the effectiveness of the mechanism if necessary.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_21__para_4">
+					<num>4.</num>
+					<content>
+						<p>The Contracting Parties shall consider strengthening existing financial institutions to provide financial resources for the conservation and sustainable use of biological diversity.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_22">
+				<num>Article 22.</num>
+				<heading>Relationship with Other International Conventions</heading>
+				<paragraph eId="art_22__para_1">
+					<num>1.</num>
+					<content>
+						<p>The provisions of this Convention shall not affect the rights and obligations of any Contracting Party deriving from any existing international agreement, except where the exercise of those rights and obligations would cause a serious damage or threat to biological diversity.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_22__para_2">
+					<num>2.</num>
+					<content>
+						<p>Contracting Parties shall implement this Convention with respect to the marine environment consistently with the rights and obligations of States under the law of the sea.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_23">
+				<num>Article 23.</num>
+				<heading>Conference of the Parties</heading>
+				<paragraph eId="art_23__para_1">
+					<num>1.</num>
+					<content>
+						<p>A Conference of the Parties is hereby established. The first meeting of the Conference of the Parties shall be convened by the Executive Director of the United Nations Environment Programme not later than one year after the entry into force of this Convention. Thereafter, ordinary meetings of the Conference of the Parties shall be held at regular intervals to be determined by the Conference at its first meeting.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_23__para_2">
+					<num>2.</num>
+					<content>
+						<p>Extraordinary meetings of the Conference of the Parties shall be held at such other times as may be deemed necessary by the Conference, or at the written request of any Party, provided that, within six months of the request being communicated to them by the Secretariat, it is supported by at least one third of the Parties.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_23__para_3">
+					<num>3.</num>
+					<content>
+						<p>The Conference of the Parties shall by consensus agree upon and adopt rules of procedure for itself and for any subsidiary body it may establish, as well as financial rules governing the funding of the Secretariat. At each ordinary meeting, it shall adopt a budget for the financial period until the next ordinary meeting.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_23__para_4">
+					<num>4.</num>
+					<intro>
+						<p>The Conference of the Parties shall keep under review the implementation of this Convention, and, for this purpose, shall:</p>
+					</intro>
+					<subparagraph eId="art_23__para_4__subpara_a">
+						<num>(a)</num>
+						<content>
+							<p>Establish the form and the intervals for transmitting the information to be submitted in accordance with <ref href="#art_26">Article 26</ref> and consider such information as well as reports submitted by any subsidiary body;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_23__para_4__subpara_b">
+						<num>(b)</num>
+						<content>
+							<p>Review scientific, technical and technological advice on biological diversity provided in accordance with <ref href="#art_25">Article 25;</ref></p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_23__para_4__subpara_c">
+						<num>(c)</num>
+						<content>
+							<p>Consider and adopt, as required, protocols in accordance with <ref href="#art_28">Article 28;</ref></p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_23__para_4__subpara_d">
+						<num>(d)</num>
+						<content>
+							<p>Consider and adopt, as required, in accordance with <mref>Articles <ref href="#art_29">29</ref> and <ref href="#art_30">30,</ref></mref> amendments to this Convention and its annexes;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_23__para_4__subpara_e">
+						<num>(e)</num>
+						<content>
+							<p>Consider amendments to any protocol, as well as to any annexes thereto, and, if so decided, recommend their adoption to the parties to the protocol concerned;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_23__para_4__subpara_f">
+						<num>(f)</num>
+						<content>
+							<p>Consider and adopt, as required, in accordance with <ref href="#art_30">Article 30,</ref> additional annexes to this Convention;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_23__para_4__subpara_g">
+						<num>(g)</num>
+						<content>
+							<p>Establish such subsidiary bodies, particularly to provide scientific and technical advice, as are deemed necessary for the implementation of this Convention;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_23__para_4__subpara_h">
+						<num>(h)</num>
+						<content>
+							<p>Contact, through the Secretariat, the executive bodies of conventions dealing with matters covered by this Convention with a view to establishing appropriate forms of cooperation with them; and</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_23__para_4__subpara_i">
+						<num>(i)</num>
+						<content>
+							<p>Consider and undertake any additional action that may be required for the achievement of the purposes of this Convention in the light of experience gained in its operation.</p>
+						</content>
+					</subparagraph>
+				</paragraph>
+				<paragraph eId="art_23__para_5">
+					<num>5.</num>
+					<content>
+						<p>The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not Party to this Convention, may be represented as observers at meetings of the Conference of the Parties. Any other body or agency, whether governmental or non-governmental, qualified in fields relating to conservation and sustainable use of biological diversity, which has informed the Secretariat of its wish to be represented as an observer at a meeting of the Conference of the Parties, may be admitted unless at least one third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_24">
+				<num>Article 24.</num>
+				<heading>Secretariat</heading>
+				<paragraph eId="art_24__para_1">
+					<num>1.</num>
+					<intro>
+						<p>A secretariat is hereby established. Its functions shall be:</p>
+					</intro>
+					<subparagraph eId="art_24__para_1__subpara_a">
+						<num>(a)</num>
+						<content>
+							<p>To arrange for and service meetings of the Conference of the Parties provided for in <ref href="#art_23">Article 23;</ref></p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_24__para_1__subpara_b">
+						<num>(b)</num>
+						<content>
+							<p>To perform the functions assigned to it by any protocol;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_24__para_1__subpara_c">
+						<num>(c)</num>
+						<content>
+							<p>To prepare reports on the execution of its functions under this Convention and present them to the Conference of the Parties;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_24__para_1__subpara_d">
+						<num>(d)</num>
+						<content>
+							<p>To coordinate with other relevant international bodies and, in particular to enter into such administrative and contractual arrangements as may be required for the effective discharge of its functions; and</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_24__para_1__subpara_e">
+						<num>(e)</num>
+						<content>
+							<p>To perform such other functions as may be determined by the Conference of the Parties.</p>
+						</content>
+					</subparagraph>
+				</paragraph>
+				<paragraph eId="art_24__para_2">
+					<num>2.</num>
+					<content>
+						<p>At its first ordinary meeting, the Conference of the Parties shall designate the secretariat from amongst those existing competent international organizations which have signified their willingness to carry out the secretariat functions under this Convention.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_25">
+				<num>Article 25.</num>
+				<heading>Subsidiary Body on Scientific, Technical and Technological Advice</heading>
+				<paragraph eId="art_25__para_1">
+					<num>1.</num>
+					<content>
+						<p>A subsidiary body for the provision of scientific, technical and technological advice is hereby established to provide the Conference of the Parties and, as appropriate, its other subsidiary bodies with timely advice relating to the implementation of this Convention. This body shall be open to participation by all Parties and shall be multidisciplinary. It shall comprise government representatives competent in the relevant field of expertise. It shall report regularly to the Conference of the Parties on all aspects of its work.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_25__para_2">
+					<num>2.</num>
+					<intro>
+						<p>Under the authority of and in accordance with guidelines laid down by the Conference of the Parties, and upon its request, this body shall:</p>
+					</intro>
+					<subparagraph eId="art_25__para_2__subpara_a">
+						<num>(a)</num>
+						<content>
+							<p>Provide scientific and technical assessments of the status of biological diversity;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_25__para_2__subpara_b">
+						<num>(b)</num>
+						<content>
+							<p>Prepare scientific and technical assessments of the effects of types of measures taken in accordance with the provisions of this Convention;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_25__para_2__subpara_c">
+						<num>(c)</num>
+						<content>
+							<p>Identify innovative, efficient and state-of-the-art technologies and know-how relating to the conservation and sustainable use of biological diversity and advise on the ways and means of promoting development and/or transferring such technologies;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_25__para_2__subpara_d">
+						<num>(d)</num>
+						<content>
+							<p>Provide advice on scientific programmes and international cooperation in research and development related to conservation and sustainable use of biological diversity; and</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_25__para_2__subpara_e">
+						<num>(e)</num>
+						<content>
+							<p>Respond to scientific, technical, technological and methodological questions that the Conference of the Parties and its subsidiary bodies may put to the body.</p>
+						</content>
+					</subparagraph>
+				</paragraph>
+				<paragraph eId="art_25__para_3">
+					<num>3.</num>
+					<content>
+						<p>The functions, terms of reference, organization and operation of this body may be further elaborated by the Conference of the Parties.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_26">
+				<num>Article 26.</num>
+				<heading>Reports</heading>
+				<content>
+					<p>Each Contracting Party shall, at intervals to be determined by the Conference of the Parties, present to the Conference of the Parties, reports on measures which it has taken for the implementation of the provisions of this Convention and their effectiveness in meeting the objectives of this Convention.</p>
+				</content>
+			</article>
+			<article eId="art_27">
+				<num>Article 27.</num>
+				<heading>Settlement of Disputes</heading>
+				<paragraph eId="art_27__para_1">
+					<num>1.</num>
+					<content>
+						<p>In the event of a dispute between Contracting Parties concerning the interpretation or application of this Convention, the parties concerned shall seek solution by negotiation.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_27__para_2">
+					<num>2.</num>
+					<content>
+						<p>If the parties concerned cannot reach agreement by negotiation, they may jointly seek the good offices of, or request mediation by, a third party.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_27__para_3">
+					<num>3.</num>
+					<intro>
+						<p>When ratifying, accepting, approving or acceding to this Convention, or at any time thereafter, a State or regional economic integration organization may declare in writing to the Depositary that for a dispute not resolved in accordance with <mref><ref href="#art_27__para_1">paragraph 1</ref> or <ref href="#art_27__para_2">paragraph 2</ref></mref> above, it accepts one or both of the following means of dispute settlement as compulsory:</p>
+					</intro>
+					<subparagraph eId="art_27__para_3__subpara_a">
+						<num>(a)</num>
+						<content>
+							<p>Arbitration in accordance with the procedure laid down in <ref href="#annex_2__part_1">Part 1 of Annex II;</ref></p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_27__para_3__subpara_b">
+						<num>(b)</num>
+						<content>
+							<p>Submission of the dispute to the International Court of Justice.</p>
+						</content>
+					</subparagraph>
+				</paragraph>
+				<paragraph eId="art_27__para_4">
+					<num>4.</num>
+					<content>
+						<p>If the parties to the dispute have not, in accordance with <ref href="#art_27__para_3">paragraph 3</ref> above, accepted the same or any procedure, the dispute shall be submitted to conciliation in accordance with <ref href="#annex_2__part_2">Part 2 of Annex II</ref> unless the parties otherwise agree.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_27__para_5">
+					<num>5.</num>
+					<content>
+						<p>The provisions of this Article shall apply with respect to any protocol except as otherwise provided in the protocol concerned.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_28">
+				<num>Article 28.</num>
+				<heading>Adoption of Protocols</heading>
+				<paragraph eId="art_28__para_1">
+					<num>1.</num>
+					<content>
+						<p>The Contracting Parties shall cooperate in the formulation and adoption of protocols to this Convention.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_28__para_2">
+					<num>2.</num>
+					<content>
+						<p>Protocols shall be adopted at a meeting of the Conference of the Parties.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_28__para_3">
+					<num>3.</num>
+					<content>
+						<p>The text of any proposed protocol shall be communicated to the Contracting Parties by the Secretariat at least six months before such a meeting.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_29">
+				<num>Article 29.</num>
+				<heading>Amendment of the Convention or Protocols</heading>
+				<paragraph eId="art_29__para_1">
+					<num>1.</num>
+					<content>
+						<p>Amendments to this Convention may be proposed by any Contracting Party. Amendments to any protocol may be proposed by any Party to that protocol.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_29__para_2">
+					<num>2.</num>
+					<content>
+						<p>Amendments to this Convention shall be adopted at a meeting of the Conference of the Parties. Amendments to any protocol shall be adopted at a meeting of the Parties to the Protocol in question. The text of any proposed amendment to this Convention or to any protocol, except as may otherwise be provided in such protocol, shall be communicated to the Parties to the instrument in question by the secretariat at least six months before the meeting at which it is proposed for adoption. The secretariat shall also communicate proposed amendments to the signatories to this Convention for information.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_29__para_3">
+					<num>3.</num>
+					<content>
+						<p>The Parties shall make every effort to reach agreement on any proposed amendment to this Convention or to any protocol by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a two-third majority vote of the Parties to the instrument in question present and voting at the meeting, and shall be submitted by the Depositary to all Parties for ratification, acceptance or approval.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_29__para_4">
+					<num>4.</num>
+					<content>
+						<p>Ratification, acceptance or approval of amendments shall be notified to the Depositary in writing. Amendments adopted in accordance with <ref href="#art_29__para_3">paragraph 3</ref> above shall enter into force among Parties having accepted them on the ninetieth day after the deposit of instruments of ratification, acceptance or approval by at least two thirds of the Contracting Parties to this Convention or of the Parties to the protocol concerned, except as may otherwise be provided in such protocol. Thereafter the amendments shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, acceptance or approval of the amendments.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_29__para_5">
+					<num>5.</num>
+					<content>
+						<p>For the purposes of this Article, "Parties present and voting" means Parties present and casting an affirmative or negative vote.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_30">
+				<num>Article 30.</num>
+				<heading>Adoption and Amendment of Annexes</heading>
+				<paragraph eId="art_30__para_1">
+					<num>1.</num>
+					<content>
+						<p>The annexes to this Convention or to any protocol shall form an integral part of the Convention or of such protocol, as the case may be, and, unless expressly provided otherwise, a reference to this Convention or its protocols constitutes at the same time a reference to any annexes thereto. Such annexes shall be restricted to procedural, scientific, technical and administrative matters.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_30__para_2">
+					<num>2.</num>
+					<intro>
+						<p>Except as may be otherwise provided in any protocol with respect to its annexes, the following procedure shall apply to the proposal, adoption and entry into force of additional annexes to this Convention or of annexes to any protocol:</p>
+					</intro>
+					<subparagraph eId="art_30__para_2__subpara_a">
+						<num>(a)</num>
+						<content>
+							<p>Annexes to this Convention or to any protocol shall be proposed and adopted according to the procedure laid down in <ref href="#art_29">Article 29;</ref></p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_30__para_2__subpara_b">
+						<num>(b)</num>
+						<content>
+							<p>Any Party that is unable to approve an additional annex to this Convention or an annex to any protocol to which it is Party shall so notify the Depositary, in writing, within one year from the date of the communication of the adoption by the Depositary. The Depositary shall without delay notify all Parties of any such notification received. A Party may at any time withdraw a previous declaration of objection and the annexes shall thereupon enter into force for that Party subject to <ref href="#art_30__para_2__subpara_c">subparagraph (c)</ref> below;</p>
+						</content>
+					</subparagraph>
+					<subparagraph eId="art_30__para_2__subpara_c">
+						<num>(c)</num>
+						<content>
+							<p>On the expiry of one year from the date of the communication of the adoption by the Depositary, the annex shall enter into force for all Parties to this Convention or to any protocol concerned which have not submitted a notification in accordance with the provisions of <ref href="#art_30__para_2__subpara_b">subparagraph (b)</ref> above.</p>
+						</content>
+					</subparagraph>
+				</paragraph>
+				<paragraph eId="art_30__para_3">
+					<num>3.</num>
+					<content>
+						<p>The proposal, adoption and entry into force of amendments to annexes to this Convention or to any protocol shall be subject to the same procedure as for the proposal, adoption and entry into force of annexes to the Convention or annexes to any protocol.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_30__para_4">
+					<num>4.</num>
+					<content>
+						<p>If an additional annex or an amendment to an annex is related to an amendment to this Convention or to any protocol, the additional annex or amendment shall not enter into force until such time as the amendment to the Convention or to the protocol concerned enters into force.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_31">
+				<num>Article 31.</num>
+				<heading>Right to Vote</heading>
+				<paragraph eId="art_31__para_1">
+					<num>1.</num>
+					<content>
+						<p>Except as provided for in <ref href="#art_31__para_2">paragraph 2</ref> below, each Contracting Party to this Convention or to any protocol shall have one vote.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_31__para_2">
+					<num>2.</num>
+					<content>
+						<p>Regional economic integration organizations, in matters within their competence, shall exercise their right to vote with a number of votes equal to the number of their member States which are Contracting Parties to this Convention or the relevant protocol. Such organizations shall not exercise their right to vote if their member States exercise theirs, and vice versa.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_32">
+				<num>Article 32.</num>
+				<heading>Relationship between this Convention and Its Protocols</heading>
+				<paragraph eId="art_32__para_1">
+					<num>1.</num>
+					<content>
+						<p>A State or a regional economic integration organization may not become a Party to a protocol unless it is, or becomes at the same time, a Contracting Party to this Convention.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_32__para_2">
+					<num>2.</num>
+					<content>
+						<p>Decisions under any protocol shall be taken only by the Parties to the protocol concerned. Any Contracting Party that has not ratified, accepted or approved a protocol may participate as an observer in any meeting of the parties to that protocol.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_33">
+				<num>Article 33.</num>
+				<heading>Signature</heading>
+				<content>
+					<p>This Convention shall be open for signature at Rio de Janeiro by all States and any regional economic integration organization from 5 June 1992 until 14 June 1992, and at the United Nations Headquarters in New York from 15 June 1992 to 4 June 1993.</p>
+				</content>
+			</article>
+			<article eId="art_34">
+				<num>Article 34.</num>
+				<heading>Ratification, Acceptance or Approval</heading>
+				<paragraph eId="art_34__para_1">
+					<num>1.</num>
+					<content>
+						<p>This Convention and any protocol shall be subject to ratification, acceptance or approval by States and by regional economic integration organizations. Instruments of ratification, acceptance or approval shall be deposited with the Depositary.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_34__para_2">
+					<num>2.</num>
+					<content>
+						<p>Any organization referred to in <ref href="#art_34__para_1">paragraph 1</ref> above which becomes a Contracting Party to this Convention or any protocol without any of its member States being a Contracting Party shall be bound by all the obligations under the Convention or the protocol, as the case may be. In the case of such organizations, one or more of whose member States is a Contracting Party to this Convention or relevant protocol, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under the Convention or protocol, as the case may be. In such cases, the organization and the member States shall not be entitled to exercise rights under the Convention or relevant protocol concurrently.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_34__para_3">
+					<num>3.</num>
+					<content>
+						<p>In their instruments of ratification, acceptance or approval, the organizations referred to in <ref href="#art_34__para_1">paragraph 1</ref> above shall declare the extent of their competence with respect to the matters governed by the Convention or the relevant protocol. These organizations shall also inform the Depositary of any relevant modification in the extent of their competence.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_35">
+				<num>Article 35.</num>
+				<heading>Accession</heading>
+				<paragraph eId="art_35__para_1">
+					<num>1.</num>
+					<content>
+						<p>This Convention and any protocol shall be open for accession by States and by regional economic integration organizations from the date on which the Convention or the protocol concerned is closed for signature. The instruments of accession shall be deposited with the Depositary.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_35__para_2">
+					<num>2.</num>
+					<content>
+						<p>In their instruments of accession, the organizations referred to in <ref href="#art_35__para_1">paragraph 1</ref> above shall declare the extent of their competence with respect to the matters governed by the Convention or the relevant protocol. These organizations shall also inform the Depositary of any relevant modification in the extent of their competence.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_35__para_3">
+					<num>3.</num>
+					<content>
+						<p>The provisions of <ref href="#art_34__para_2">Article 34, paragraph 2,</ref> shall apply to regional economic integration organizations which accede to this Convention or any protocol.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_36">
+				<num>Article 36.</num>
+				<heading>Entry Into Force</heading>
+				<paragraph eId="art_36__para_1">
+					<num>1.</num>
+					<content>
+						<p>This Convention shall enter into force on the ninetieth day after the date of deposit of the thirtieth instrument of ratification, acceptance, approval or accession.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_36__para_2">
+					<num>2.</num>
+					<content>
+						<p>Any protocol shall enter into force on the ninetieth day after the date of deposit of the number of instruments of ratification, acceptance, approval or accession, specified in that protocol, has been deposited.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_36__para_3">
+					<num>3.</num>
+					<content>
+						<p>For each Contracting Party which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the thirtieth instrument of ratification, acceptance, approval or accession, it shall enter into force on the ninetieth day after the date of deposit by such Contracting Party of its instrument of ratification, acceptance, approval or accession.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_36__para_4">
+					<num>4.</num>
+					<content>
+						<p>Any protocol, except as otherwise provided in such protocol, shall enter into force for a Contracting Party that ratifies, accepts or approves that protocol or accedes thereto after its entry into force pursuant to <ref href="#art_36__para_2">paragraph 2</ref> above, on the ninetieth day after the date on which that Contracting Party deposits its instrument of ratification, acceptance, approval or accession, or on the date on which this Convention enters into force for that Contracting Party, whichever shall be the later.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_36__para_5">
+					<num>5.</num>
+					<content>
+						<p>For the purposes of <mref>paragraphs <ref href="#art_36__para_1">1</ref> and <ref href="#art_36__para_2">2</ref></mref> above, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_37">
+				<num>Article 37.</num>
+				<heading>Reservations</heading>
+				<content>
+					<p>No reservations may be made to this Convention.</p>
+				</content>
+			</article>
+			<article eId="art_38">
+				<num>Article 38.</num>
+				<heading>Withdrawals</heading>
+				<paragraph eId="art_38__para_1">
+					<num>1.</num>
+					<content>
+						<p>At any time after two years from the date on which this Convention has entered into force for a Contracting Party, that Contracting Party may withdraw from the Convention by giving written notification to the Depositary.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_38__para_2">
+					<num>2.</num>
+					<content>
+						<p>Any such withdrawal shall take place upon expiry of one year after the date of its receipt by the Depositary, or on such later date as may be specified in the notification of the withdrawal.</p>
+					</content>
+				</paragraph>
+				<paragraph eId="art_38__para_3">
+					<num>3.</num>
+					<content>
+						<p>Any Contracting Party which withdraws from this Convention shall be considered as also having withdrawn from any protocol to which it is party.</p>
+					</content>
+				</paragraph>
+			</article>
+			<article eId="art_39">
+				<num>Article 39.</num>
+				<heading>Financial Interim Arrangements</heading>
+				<content>
+					<p>Provided that it has been fully restructured in accordance with the requirements of <ref href="#art_21">Article 21,</ref> the Global Environment Facility of the United Nations Development Programme, the United Nations Environment Programme and the International Bank for Reconstruction and Development shall be the institutional structure referred to in <ref href="#art_21">Article 21</ref> on an interim basis, for the period between the entry into force of this Convention and the first meeting of the Conference of the Parties or until the Conference of the Parties decides which institutional structure will be designated in accordance with <ref href="#art_21">Article 21.</ref></p>
+				</content>
+			</article>
+			<article eId="art_40">
+				<num>Article 40.</num>
+				<heading>Secretariat Interim Arrangements</heading>
+				<content>
+					<p>The secretariat to be provided by the Executive Director of the United Nations Environment Programme shall be the secretariat referred to in <ref href="#art_24__para_2">Article 24, paragraph 2,</ref> on an interim basis for the period between the entry into force of this Convention and the first meeting of the Conference of the Parties.</p>
+				</content>
+			</article>
+			<article eId="art_41">
+				<num>Article 41.</num>
+				<heading>Depositary</heading>
+				<content>
+					<p>The Secretary-General of the United Nations shall assume the functions of Depositary of this Convention and any protocols.</p>
+				</content>
+			</article>
+			<article eId="art_42">
+				<num>Article 42.</num>
+				<heading>Authentic texts</heading>
+				<content>
+					<p>The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.</p>
+				</content>
+			</article>
+		</mainBody>
+		<conclusions>
+			<formula name="witnessingClause">
+				<p>IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Convention.</p>
+			</formula>
+			<p>Done at <location refersTo="#location-rio">Rio de Janeiro</location> on this <date date="1992-06-05">fifth day of June, one thousand nine hundred and ninety-two.</date></p>
+		</conclusions>
+		<attachments>
+			<attachment>
+				<num>Annex I</num>
+				<heading>Identification and Monitoring</heading>
+				<doc name="annex">
+					<meta>
+						<identification source="">
+							<FRBRWork>
+								<FRBRthis value="un/treaty/cbd/annex/1"/>
+								<FRBRuri value="un/treaty/cbd/annex/1"/>
+								<FRBRdate date="1992-06-05" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRcountry value="un"/>
+							</FRBRWork>
+							<FRBRExpression>
+								<FRBRthis value="un/treaty/cbd/annex/1/eng"/>
+								<FRBRuri value="un/treaty/cbd/annex/1/eng"/>
+								<FRBRdate date="1992-06-05" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRlanguage language="eng"/>
+							</FRBRExpression>
+							<FRBRManifestation>
+								<FRBRthis value="un/treaty/cbd/annex/1/eng/akn"/>
+								<FRBRuri value="un/treaty/cbd/annex/1/eng/akn"/>
+								<FRBRdate date="2017-06-14" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRformat value="application/xml"/>
+							</FRBRManifestation>
+						</identification>
+					</meta>
+					<mainBody>
+						<paragraph eId="annex_1__para_1">
+							<num>1.</num>
+							<content>
+								<p>Ecosystems and habitats: containing high diversity, large numbers of endemic or threatened species, or wilderness; required by migratory species; of social, economic, cultural or scientific importance; or, which are representative, unique or associated with key evolutionary or other biological processes;</p>
+							</content>
+						</paragraph>
+						<paragraph eId="annex_1__para_2">
+							<num>2.</num>
+							<content>
+								<p>Species and communities which are: threatened; wild relatives of domesticated or cultivated species; of medicinal, agricultural or other economic value; or social, scientific or cultural importance; or importance for research into the conservation and sustainable use of biological diversity, such as indicator species; and</p>
+							</content>
+						</paragraph>
+						<paragraph eId="annex_1__para_3">
+							<num>3.</num>
+							<content>
+								<p>Described genomes and genes of social, scientific or economic importance.</p>
+							</content>
+						</paragraph>
+					</mainBody>
+				</doc>
+			</attachment>
+			<attachment>
+				<num>Annex II</num>
+				<doc name="annex">
+					<meta>
+						<identification source="">
+							<FRBRWork>
+								<FRBRthis value="un/treaty/cbd/annex/2"/>
+								<FRBRuri value="un/treaty/cbd/annex/2"/>
+								<FRBRdate date="1992-06-05" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRcountry value="un"/>
+							</FRBRWork>
+							<FRBRExpression>
+								<FRBRthis value="un/treaty/cbd/annex/2/eng"/>
+								<FRBRuri value="un/treaty/cbd/annex/2/eng"/>
+								<FRBRdate date="1992-06-05" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRlanguage language="eng"/>
+							</FRBRExpression>
+							<FRBRManifestation>
+								<FRBRthis value="un/treaty/cbd/annex/2/eng/akn"/>
+								<FRBRuri value="un/treaty/cbd/annex/2/eng/akn"/>
+								<FRBRdate date="2017-06-14" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRformat value="application/xml"/>
+							</FRBRManifestation>
+						</identification>
+					</meta>
+					<mainBody>
+						<part eId="annex_2__part_1">
+							<num>Part 1.</num>
+							<heading>Arbitration</heading>
+							<article eId="annex_2__part_1__art_1">
+								<num>Article 1</num>
+								<content>
+									<p>The claimant party shall notify the secretariat that the parties are referring a dispute to arbitration pursuant to <ref href="#art_27">Article 27.</ref> The notification shall state the subject-matter of arbitration and include, in particular, the articles of the Convention or the protocol, the interpretation or application of which are at issue. If the parties do not agree on the subject matter of the dispute before the President of the tribunal is designated, the arbitral tribunal shall determine the subject matter. The secretariat shall forward the information thus received to all Contracting Parties to this Convention or to the protocol concerned.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_2">
+								<num>Article 2</num>
+								<paragraph eId="annex_2__part_1__art_2__para_1">
+									<num>1.</num>
+									<content>
+										<p>In disputes between two parties, the arbitral tribunal shall consist of three members. Each of the parties to the dispute shall appoint an arbitrator and the two arbitrators so appointed shall designate by common agreement the third arbitrator who shall be the President of the tribunal. The latter shall not be a national of one of the parties to the dispute, nor have his or her usual place of residence in the territory of one of these parties, nor be employed by any of them, nor have dealt with the case in any other capacity.</p>
+									</content>
+								</paragraph>
+								<paragraph eId="annex_2__part_1__art_2__para_2">
+									<num>2.</num>
+									<content>
+										<p>In disputes between more than two parties, parties in the same interest shall appoint one arbitrator jointly by agreement.</p>
+									</content>
+								</paragraph>
+								<paragraph eId="annex_2__part_1__art_2__para_3">
+									<num>3.</num>
+									<content>
+										<p>Any vacancy shall be filled in the manner prescribed for the initial appointment.</p>
+									</content>
+								</paragraph>
+							</article>
+							<article eId="annex_2__part_1__art_3">
+								<num>Article 3</num>
+								<paragraph eId="annex_2__part_1__art_3__para_1">
+									<num>1.</num>
+									<content>
+										<p>If the President of the arbitral tribunal has not been designated within two months of the appointment of the second arbitrator, the Secretary-General of the United Nations shall, at the request of a party, designate the President within a further two-month period.</p>
+									</content>
+								</paragraph>
+								<paragraph eId="annex_2__part_1__art_3__para_2">
+									<num>2.</num>
+									<content>
+										<p>If one of the parties to the dispute does not appoint an arbitrator within two months of receipt of the request, the other party may inform the Secretary-General who shall make the designation within a further two-month period.</p>
+									</content>
+								</paragraph>
+							</article>
+							<article eId="annex_2__part_1__art_4">
+								<num>Article 4</num>
+								<content>
+									<p>The arbitral tribunal shall render its decisions in accordance with the provisions of this Convention, any protocols concerned, and international law.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_5">
+								<num>Article 5</num>
+								<content>
+									<p>Unless the parties to the dispute otherwise agree, the arbitral tribunal shall determine its own rules of procedure.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_6">
+								<num>Article 6</num>
+								<content>
+									<p>The arbitral tribunal may, at the request of one of the parties, recommend essential interim measures of protection.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_7">
+								<num>Article 7</num>
+								<intro>
+									<p>The parties to the dispute shall facilitate the work of the arbitral tribunal and, in particular, using all means at their disposal, shall:</p>
+								</intro>
+								<subparagraph eId="annex_2__part_1__art_7__subpara_a">
+									<num>(a)</num>
+									<content>
+										<p>Provide it with all relevant documents, information and facilities; and</p>
+									</content>
+								</subparagraph>
+								<subparagraph eId="annex_2__part_1__art_7__subpara_b">
+									<num>(b)</num>
+									<content>
+										<p>Enable it, when necessary, to call witnesses or experts and receive their evidence.</p>
+									</content>
+								</subparagraph>
+							</article>
+							<article eId="annex_2__part_1__art_8">
+								<num>Article 8</num>
+								<content>
+									<p>The parties and the arbitrators are under an obligation to protect the confidentiality of any information they receive in confidence during the proceedings of the arbitral tribunal.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_9">
+								<num>Article 9</num>
+								<content>
+									<p>Unless the arbitral tribunal determines otherwise because of the particular circumstances of the case, the costs of the tribunal shall be borne by the parties to the dispute in equal shares. The tribunal shall keep a record of all its costs, and shall furnish a final statement thereof to the parties.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_10">
+								<num>Article 10</num>
+								<content>
+									<p>Any Contracting Party that has an interest of a legal nature in the subject-matter of the dispute which may be affected by the decision in the case, may intervene in the proceedings with the consent of the tribunal.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_11">
+								<num>Article 11</num>
+								<content>
+									<p>The tribunal may hear and determine counterclaims arising directly out of the subject-matter of the dispute.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_12">
+								<num>Article 12</num>
+								<content>
+									<p>Decisions both on procedure and substance of the arbitral tribunal shall be taken by a majority vote of its members.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_13">
+								<num>Article 13</num>
+								<content>
+									<p>If one of the parties to the dispute does not appear before the arbitral tribunal or fails to defend its case, the other party may request the tribunal to continue the proceedings and to make its award. Absence of a party or a failure of a party to defend its case shall not constitute a bar to the proceedings. Before rendering its final decision, the arbitral tribunal must satisfy itself that the claim is well founded in fact and law.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_14">
+								<num>Article 14</num>
+								<content>
+									<p>The tribunal shall render its final decision within five months of the date on which it is fully constituted unless it finds it necessary to extend the time-limit for a period which should not exceed five more months.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_15">
+								<num>Article 15</num>
+								<content>
+									<p>The final decision of the arbitral tribunal shall be confined to the subject-matter of the dispute and shall state the reasons on which it is based. It shall contain the names of the members who have participated and the date of the final decision. Any member of the tribunal may attach a separate or dissenting opinion to the final decision.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_16">
+								<num>Article 16</num>
+								<content>
+									<p>The award shall be binding on the parties to the dispute. It shall be without appeal unless the parties to the dispute have agreed in advance to an appellate procedure.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_1__art_17">
+								<num>Article 17</num>
+								<content>
+									<p>Any controversy which may arise between the parties to the dispute as regards the interpretation or manner of implementation of the final decision may be submitted by either party for decision to the arbitral tribunal which rendered it.</p>
+								</content>
+							</article>
+						</part>
+						<part eId="annex_2__part_2">
+							<num>Part 2.</num>
+							<heading>Conciliation</heading>
+							<article eId="annex_2__part_2__art_1">
+								<num>Article 1</num>
+								<content>
+									<p>A conciliation commission shall be created upon the request of one of the parties to the dispute. The commission shall, unless the parties otherwise agree, be composed of five members, two appointed by each Party concerned and a President chosen jointly by those members.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_2__art_2">
+								<num>Article 2</num>
+								<content>
+									<p>In disputes between more than two parties, parties in the same interest shall appoint their members of the commission jointly by agreement. Where two or more parties have separate interests or there is a disagreement as to whether they are of the same interest, they shall appoint their members separately.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_2__art_3">
+								<num>Article 3</num>
+								<content>
+									<p>If any appointments by the parties are not made within two months of the date of the request to create a conciliation commission, the Secretary-General of the United Nations shall, if asked to do so by the party that made the request, make those appointments within a further two-month period.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_2__art_4">
+								<num>Article 4</num>
+								<content>
+									<p>If a President of the conciliation commission has not been chosen within two months of the last of the members of the commission being appointed, the Secretary-General of the United Nations shall, if asked to do so by a party, designate a President within a further two-month period.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_2__art_5">
+								<num>Article 5</num>
+								<content>
+									<p>The conciliation commission shall take its decisions by majority vote of its members. It shall, unless the parties to the dispute otherwise agree, determine its own procedure. It shall render a proposal for resolution of the dispute, which the parties shall consider in good faith.</p>
+								</content>
+							</article>
+							<article eId="annex_2__part_2__art_6">
+								<num>Article 6</num>
+								<content>
+									<p>A disagreement as to whether the conciliation commission has competence shall be decided by the commission.</p>
+								</content>
+							</article>
+						</part>
+					</mainBody>
+				</doc>
+			</attachment>
+		</attachments>
+	</doc>
+</akomaNtoso>
